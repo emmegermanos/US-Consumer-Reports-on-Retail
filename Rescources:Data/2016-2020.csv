@@ -1,0 +1,3481 @@
+Code,KB,Sales,Month,Year
+441,Motor vehicle and parts dealers,93367,1,2020
+"44,114,412",Automobile and other motor vehicle dealers,85832,1,2020
+4411,Automobile dealers,81214,1,2020
+44111,New car dealers,72074,1,2020
+44112,Used car dealers,9140,1,2020
+4413,"Automotive parts, acc., and tire stores",7535,1,2020
+"442,443","Furniture, home furn, electronics, and appliance stores",16569,1,2020
+442,Furniture and home furnishings stores,9490,1,2020
+4421,Furniture stores,5148,1,2020
+4422,Home furnishings stores,4342,1,2020
+44221,Floor covering stores,0,1,2020
+442299,All other home furnishings stores,2422,1,2020
+443,Electronics and appliance stores,7079,1,2020
+443141,Household appliance stores,1230,1,2020
+443142,Electronics stores,5849,1,2020
+444,Building mat. and garden equip. and supplies dealers,26966,1,2020
+4441,Building mat. and supplies dealers,23709,1,2020
+44412,Paint and wallpaper stores,928,1,2020
+44413,Hardware stores,2059,1,2020
+445,Food and beverage stores,64567,1,2020
+4451,Grocery stores,58722,1,2020
+44511,Supermarkets and other grocery (except convenience) stores,56141,1,2020
+4453,"Beer, wine, and liquor stores",4188,1,2020
+446,Health and personal care stores,28987,1,2020
+44611,Pharmacies and drug stores,24440,1,2020
+447,Gasoline stations,39696,1,2020
+448,Clothing and clothing access. stores,16873,1,2020
+4481,Clothing stores,12287,1,2020
+44811,Men's clothing stores,599,1,2020
+44812,Women's clothing stores,2402,1,2020
+44814,Family clothing stores,6899,1,2020
+44819,Other clothing stores,1225,1,2020
+4482,Shoe stores,2148,1,2020
+44831,Jewelry stores,2141,1,2020
+451,"Sporting goods, hobby, musical instrument, and book stores",5867,1,2020
+45111,Sporting goods stores,2984,1,2020
+45112,"Hobby, toy, and game stores",1174,1,2020
+451211,Book stores,990,1,2020
+452,General merchandise stores,53203,1,2020
+4521,Department stores,8479,1,2020
+452111,Department stores(excl. discount department stores),2146,1,2020
+452112,Discount dept. stores,6333,1,2020
+4529,Other general merchandise stores,44724,1,2020
+45291,Warehouse clubs and superstores,38811,1,2020
+45299,All other gen. merchandise stores,5913,1,2020
+453,Miscellaneous store retailers,10394,1,2020
+4532,"Office supplies, stationery, and gift stores",2037,1,2020
+45321,Office supplies and stationery stores,963,1,2020
+45322,"Gift, novelty, and souvenir stores",1074,1,2020
+45330,Used merchandise stores,1501,1,2020
+454,Nonstore retailers,62245,1,2020
+4541,Electronic shopping and mail-order houses,53485,1,2020
+45431,Fuel dealers,4240,1,2020
+722,Food services and drinking places,61567,1,2020
+7224,Drinking places,0,1,2020
+7225,Restaurants and other eating places,54131,1,2020
+722511,Full service restaurants,27018,1,2020
+"722513, 722514, 722515",Limited service eating places,27113,1,2020
+441,Motor vehicle and parts dealers,87889,1,2019
+"44,114,412",Automobile and other motor vehicle dealers,80625,1,2019
+4411,Automobile dealers,76147,1,2019
+44111,New car dealers,67012,1,2019
+44112,Used car dealers,9135,1,2019
+4413,"Automotive parts, acc., and tire stores",7264,1,2019
+"442,443","Furniture, home furn, electronics, and appliance stores",15980,1,2019
+442,Furniture and home furnishings stores,8818,1,2019
+4421,Furniture stores,4628,1,2019
+4422,Home furnishings stores,4190,1,2019
+44221,Floor covering stores,0,1,2019
+442299,All other home furnishings stores,2246,1,2019
+443,Electronics and appliance stores,7162,1,2019
+443141,Household appliance stores,1198,1,2019
+443142,Electronics stores,5964,1,2019
+444,Building mat. and garden equip. and supplies dealers,26620,1,2019
+4441,Building mat. and supplies dealers,23425,1,2019
+44412,Paint and wallpaper stores,912,1,2019
+44413,Hardware stores,2083,1,2019
+445,Food and beverage stores,62829,1,2019
+4451,Grocery stores,57184,1,2019
+44511,Supermarkets and other grocery (except convenience) stores,54876,1,2019
+4453,"Beer, wine, and liquor stores",3933,1,2019
+446,Health and personal care stores,28639,1,2019
+44611,Pharmacies and drug stores,24194,1,2019
+447,Gasoline stations,36439,1,2019
+448,Clothing and clothing access. stores,16155,1,2019
+4481,Clothing stores,11955,1,2019
+44811,Men's clothing stores,630,1,2019
+44812,Women's clothing stores,2400,1,2019
+44814,Family clothing stores,6606,1,2019
+44819,Other clothing stores,1179,1,2019
+4482,Shoe stores,2187,1,2019
+44831,Jewelry stores,1788,1,2019
+451,"Sporting goods, hobby, musical instrument, and book stores",5658,1,2019
+45111,Sporting goods stores,2784,1,2019
+45112,"Hobby, toy, and game stores",1131,1,2019
+451211,Book stores,1029,1,2019
+452,General merchandise stores,51708,1,2019
+4521,Department stores,8681,1,2019
+452111,Department stores(excl. discount department stores),2367,1,2019
+452112,Discount dept. stores,6314,1,2019
+4529,Other general merchandise stores,43027,1,2019
+45291,Warehouse clubs and superstores,37147,1,2019
+45299,All other gen. merchandise stores,5880,1,2019
+453,Miscellaneous store retailers,9141,1,2019
+4532,"Office supplies, stationery, and gift stores",2039,1,2019
+45321,Office supplies and stationery stores,1014,1,2019
+45322,"Gift, novelty, and souvenir stores",1025,1,2019
+45330,Used merchandise stores,1366,1,2019
+454,Nonstore retailers,58403,1,2019
+4541,Electronic shopping and mail-order houses,49099,1,2019
+45431,Fuel dealers,4656,1,2019
+722,Food services and drinking places,57077,1,2019
+7224,Drinking places,0,1,2019
+7225,Restaurants and other eating places,50245,1,2019
+722511,Full service restaurants,24924,1,2019
+"722513, 722514, 722515",Limited service eating places,25321,1,2019
+441,Motor vehicle and parts dealers,88243,1,2018
+"44,114,412",Automobile and other motor vehicle dealers,81003,1,2018
+4411,Automobile dealers,76900,1,2018
+44111,New car dealers,67879,1,2018
+44112,Used car dealers,9021,1,2018
+4413,"Automotive parts, acc., and tire stores",7240,1,2018
+"442,443","Furniture, home furn, electronics, and appliance stores",16168,1,2018
+442,Furniture and home furnishings stores,8878,1,2018
+4421,Furniture stores,4719,1,2018
+4422,Home furnishings stores,4159,1,2018
+44221,Floor covering stores,0,1,2018
+442299,All other home furnishings stores,2299,1,2018
+443,Electronics and appliance stores,7290,1,2018
+443141,Household appliance stores,1227,1,2018
+443142,Electronics stores,6063,1,2018
+444,Building mat. and garden equip. and supplies dealers,23535,1,2018
+4441,Building mat. and supplies dealers,21084,1,2018
+44412,Paint and wallpaper stores,803,1,2018
+44413,Hardware stores,1933,1,2018
+445,Food and beverage stores,60393,1,2018
+4451,Grocery stores,54910,1,2018
+44511,Supermarkets and other grocery (except convenience) stores,52638,1,2018
+4453,"Beer, wine, and liquor stores",3792,1,2018
+446,Health and personal care stores,27699,1,2018
+44611,Pharmacies and drug stores,23606,1,2018
+447,Gasoline stations,38954,1,2018
+448,Clothing and clothing access. stores,15780,1,2018
+4481,Clothing stores,11643,1,2018
+44811,Men's clothing stores,594,1,2018
+44812,Women's clothing stores,2314,1,2018
+44814,Family clothing stores,6322,1,2018
+44819,Other clothing stores,1220,1,2018
+4482,Shoe stores,2076,1,2018
+44831,Jewelry stores,1849,1,2018
+451,"Sporting goods, hobby, musical instrument, and book stores",5964,1,2018
+45111,Sporting goods stores,2816,1,2018
+45112,"Hobby, toy, and game stores",1187,1,2018
+451211,Book stores,1219,1,2018
+452,General merchandise stores,50594,1,2018
+4521,Department stores,9120,1,2018
+452111,Department stores(excl. discount department stores),2638,1,2018
+452112,Discount dept. stores,6482,1,2018
+4529,Other general merchandise stores,41474,1,2018
+45291,Warehouse clubs and superstores,35948,1,2018
+45299,All other gen. merchandise stores,5526,1,2018
+453,Miscellaneous store retailers,9472,1,2018
+4532,"Office supplies, stationery, and gift stores",2144,1,2018
+45321,Office supplies and stationery stores,1067,1,2018
+45322,"Gift, novelty, and souvenir stores",1077,1,2018
+45330,Used merchandise stores,1313,1,2018
+454,Nonstore retailers,53006,1,2018
+4541,Electronic shopping and mail-order houses,43140,1,2018
+45431,Fuel dealers,5831,1,2018
+722,Food services and drinking places,54478,1,2018
+7224,Drinking places,2033,1,2018
+7225,Restaurants and other eating places,47791,1,2018
+722511,Full service restaurants,24145,1,2018
+"722513, 722514, 722515",Limited service eating places,23646,1,2018
+441,Motor vehicle and parts dealers,85187,1,2017
+"44,114,412",Automobile and other motor vehicle dealers,78171,1,2017
+4411,Automobile dealers,74592,1,2017
+44111,New car dealers,65936,1,2017
+44112,Used car dealers,8656,1,2017
+4413,"Automotive parts, acc., and tire stores",7016,1,2017
+"442,443","Furniture, home furn, electronics, and appliance stores",15441,1,2017
+442,Furniture and home furnishings stores,8407,1,2017
+4421,Furniture stores,4646,1,2017
+4422,Home furnishings stores,3761,1,2017
+44221,Floor covering stores,1459,1,2017
+442299,All other home furnishings stores,2181,1,2017
+443,Electronics and appliance stores,7034,1,2017
+443141,Household appliance stores,1302,1,2017
+443142,Electronics stores,5732,1,2017
+444,Building mat. and garden equip. and supplies dealers,22389,1,2017
+4441,Building mat. and supplies dealers,20256,1,2017
+44412,Paint and wallpaper stores,747,1,2017
+44413,Hardware stores,1781,1,2017
+445,Food and beverage stores,57800,1,2017
+4451,Grocery stores,52552,1,2017
+44511,Supermarkets and other grocery (except convenience) stores,50497,1,2017
+4453,"Beer, wine, and liquor stores",3578,1,2017
+446,Health and personal care stores,25715,1,2017
+44611,Pharmacies and drug stores,21723,1,2017
+447,Gasoline stations,35924,1,2017
+448,Clothing and clothing access. stores,15907,1,2017
+4481,Clothing stores,11843,1,2017
+44811,Men's clothing stores,622,1,2017
+44812,Women's clothing stores,2373,1,2017
+44814,Family clothing stores,6024,1,2017
+44819,Other clothing stores,1502,1,2017
+4482,Shoe stores,2143,1,2017
+44831,Jewelry stores,1742,1,2017
+451,"Sporting goods, hobby, musical instrument, and book stores",6215,1,2017
+45111,Sporting goods stores,2955,1,2017
+45112,"Hobby, toy, and game stores",1182,1,2017
+451211,Book stores,1380,1,2017
+452,General merchandise stores,49906,1,2017
+4521,Department stores,9386,1,2017
+452111,Department stores(excl. discount department stores),2847,1,2017
+452112,Discount dept. stores,6539,1,2017
+4529,Other general merchandise stores,40520,1,2017
+45291,Warehouse clubs and superstores,35225,1,2017
+45299,All other gen. merchandise stores,5295,1,2017
+453,Miscellaneous store retailers,8654,1,2017
+4532,"Office supplies, stationery, and gift stores",2196,1,2017
+45321,Office supplies and stationery stores,1186,1,2017
+45322,"Gift, novelty, and souvenir stores",1010,1,2017
+45330,Used merchandise stores,1226,1,2017
+454,Nonstore retailers,45822,1,2017
+4541,Electronic shopping and mail-order houses,38057,1,2017
+45431,Fuel dealers,3943,1,2017
+722,Food services and drinking places,52983,1,2017
+7224,Drinking places,1977,1,2017
+7225,Restaurants and other eating places,46503,1,2017
+722511,Full service restaurants,23690,1,2017
+"722513, 722514, 722515",Limited service eating places,22813,1,2017
+441,Motor vehicle and parts dealers,80898,1,2016
+"44,114,412",Automobile and other motor vehicle dealers,73975,1,2016
+4411,Automobile dealers,70393,1,2016
+44111,New car dealers,62569,1,2016
+44112,Used car dealers,7824,1,2016
+4413,"Automotive parts, acc., and tire stores",6923,1,2016
+"442,443","Furniture, home furn, electronics, and appliance stores",15555,1,2016
+442,Furniture and home furnishings stores,8297,1,2016
+4421,Furniture stores,4599,1,2016
+4422,Home furnishings stores,3698,1,2016
+44221,Floor covering stores,1457,1,2016
+442299,All other home furnishings stores,2130,1,2016
+443,Electronics and appliance stores,7258,1,2016
+443141,Household appliance stores,1246,1,2016
+443142,Electronics stores,6012,1,2016
+444,Building mat. and garden equip. and supplies dealers,21408,1,2016
+4441,Building mat. and supplies dealers,19154,1,2016
+44412,Paint and wallpaper stores,677,1,2016
+44413,Hardware stores,1746,1,2016
+445,Food and beverage stores,56931,1,2016
+4451,Grocery stores,51810,1,2016
+44511,Supermarkets and other grocery (except convenience) stores,49846,1,2016
+4453,"Beer, wine, and liquor stores",3488,1,2016
+446,Health and personal care stores,25538,1,2016
+44611,Pharmacies and drug stores,21680,1,2016
+447,Gasoline stations,31048,1,2016
+448,Clothing and clothing access. stores,15753,1,2016
+4481,Clothing stores,11629,1,2016
+44811,Men's clothing stores,604,1,2016
+44812,Women's clothing stores,2413,1,2016
+44814,Family clothing stores,6055,1,2016
+44819,Other clothing stores,1265,1,2016
+4482,Shoe stores,2163,1,2016
+44831,Jewelry stores,1769,1,2016
+451,"Sporting goods, hobby, musical instrument, and book stores",6427,1,2016
+45111,Sporting goods stores,3104,1,2016
+45112,"Hobby, toy, and game stores",1191,1,2016
+451211,Book stores,1424,1,2016
+452,General merchandise stores,49678,1,2016
+4521,Department stores,10199,1,2016
+452111,Department stores(excl. discount department stores),3162,1,2016
+452112,Discount dept. stores,7037,1,2016
+4529,Other general merchandise stores,39479,1,2016
+45291,Warehouse clubs and superstores,34531,1,2016
+45299,All other gen. merchandise stores,4948,1,2016
+453,Miscellaneous store retailers,8335,1,2016
+4532,"Office supplies, stationery, and gift stores",2261,1,2016
+45321,Office supplies and stationery stores,1215,1,2016
+45322,"Gift, novelty, and souvenir stores",1046,1,2016
+45330,Used merchandise stores,1173,1,2016
+454,Nonstore retailers,40319,1,2016
+4541,Electronic shopping and mail-order houses,33172,1,2016
+45431,Fuel dealers,3560,1,2016
+722,Food services and drinking places,50021,1,2016
+7224,Drinking places,1876,1,2016
+7225,Restaurants and other eating places,44091,1,2016
+722511,Full service restaurants,22883,1,2016
+"722513, 722514, 722515",Limited service eating places,21208,1,2016
+441,Motor vehicle and parts dealers,97828,2,2020
+"44,114,412",Automobile and other motor vehicle dealers,90586,2,2020
+4411,Automobile dealers,85140,2,2020
+44111,New car dealers,74360,2,2020
+44112,Used car dealers,10780,2,2020
+4413,"Automotive parts, acc., and tire stores",7242,2,2020
+"442,443","Furniture, home furn, electronics, and appliance stores",16139,2,2020
+442,Furniture and home furnishings stores,9452,2,2020
+4421,Furniture stores,5287,2,2020
+4422,Home furnishings stores,4165,2,2020
+44221,Floor covering stores,0,2,2020
+442299,All other home furnishings stores,2211,2,2020
+443,Electronics and appliance stores,6687,2,2020
+443141,Household appliance stores,1234,2,2020
+443142,Electronics stores,5453,2,2020
+444,Building mat. and garden equip. and supplies dealers,26237,2,2020
+4441,Building mat. and supplies dealers,23025,2,2020
+44412,Paint and wallpaper stores,920,2,2020
+44413,Hardware stores,1954,2,2020
+445,Food and beverage stores,61962,2,2020
+4451,Grocery stores,55870,2,2020
+44511,Supermarkets and other grocery (except convenience) stores,53306,2,2020
+4453,"Beer, wine, and liquor stores",4318,2,2020
+446,Health and personal care stores,27756,2,2020
+44611,Pharmacies and drug stores,23183,2,2020
+447,Gasoline stations,36963,2,2020
+448,Clothing and clothing access. stores,19232,2,2020
+4481,Clothing stores,13439,2,2020
+44811,Men's clothing stores,615,2,2020
+44812,Women's clothing stores,2662,2,2020
+44814,Family clothing stores,7535,2,2020
+44819,Other clothing stores,1344,2,2020
+4482,Shoe stores,2701,2,2020
+44831,Jewelry stores,2751,2,2020
+451,"Sporting goods, hobby, musical instrument, and book stores",5632,2,2020
+45111,Sporting goods stores,3107,2,2020
+45112,"Hobby, toy, and game stores",1200,2,2020
+451211,Book stores,593,2,2020
+452,General merchandise stores,54596,2,2020
+4521,Department stores,9067,2,2020
+452111,Department stores(excl. discount department stores),2473,2,2020
+452112,Discount dept. stores,6594,2,2020
+4529,Other general merchandise stores,45529,2,2020
+45291,Warehouse clubs and superstores,39451,2,2020
+45299,All other gen. merchandise stores,6078,2,2020
+453,Miscellaneous store retailers,10302,2,2020
+4532,"Office supplies, stationery, and gift stores",1953,2,2020
+45321,Office supplies and stationery stores,816,2,2020
+45322,"Gift, novelty, and souvenir stores",1137,2,2020
+45330,Used merchandise stores,1551,2,2020
+454,Nonstore retailers,58864,2,2020
+4541,Electronic shopping and mail-order houses,50716,2,2020
+45431,Fuel dealers,3565,2,2020
+722,Food services and drinking places,62956,2,2020
+7224,Drinking places,0,2,2020
+7225,Restaurants and other eating places,54911,2,2020
+722511,Full service restaurants,0,2,2020
+"722513, 722514, 722515",Limited service eating places,27062,2,2020
+441,Motor vehicle and parts dealers,89623,2,2019
+"44,114,412",Automobile and other motor vehicle dealers,82469,2,2019
+4411,Automobile dealers,77461,2,2019
+44111,New car dealers,67456,2,2019
+44112,Used car dealers,10005,2,2019
+4413,"Automotive parts, acc., and tire stores",7154,2,2019
+"442,443","Furniture, home furn, electronics, and appliance stores",15191,2,2019
+442,Furniture and home furnishings stores,8629,2,2019
+4421,Furniture stores,4616,2,2019
+4422,Home furnishings stores,4013,2,2019
+44221,Floor covering stores,0,2,2019
+442299,All other home furnishings stores,2088,2,2019
+443,Electronics and appliance stores,6562,2,2019
+443141,Household appliance stores,1177,2,2019
+443142,Electronics stores,5385,2,2019
+444,Building mat. and garden equip. and supplies dealers,24039,2,2019
+4441,Building mat. and supplies dealers,21061,2,2019
+44412,Paint and wallpaper stores,860,2,2019
+44413,Hardware stores,1910,2,2019
+445,Food and beverage stores,56898,2,2019
+4451,Grocery stores,51284,2,2019
+44511,Supermarkets and other grocery (except convenience) stores,49031,2,2019
+4453,"Beer, wine, and liquor stores",3916,2,2019
+446,Health and personal care stores,26772,2,2019
+44611,Pharmacies and drug stores,22372,2,2019
+447,Gasoline stations,35514,2,2019
+448,Clothing and clothing access. stores,17961,2,2019
+4481,Clothing stores,12514,2,2019
+44811,Men's clothing stores,591,2,2019
+44812,Women's clothing stores,2571,2,2019
+44814,Family clothing stores,6905,2,2019
+44819,Other clothing stores,1212,2,2019
+4482,Shoe stores,2722,2,2019
+44831,Jewelry stores,2484,2,2019
+451,"Sporting goods, hobby, musical instrument, and book stores",5249,2,2019
+45111,Sporting goods stores,2876,2,2019
+45112,"Hobby, toy, and game stores",1088,2,2019
+451211,Book stores,585,2,2019
+452,General merchandise stores,50626,2,2019
+4521,Department stores,9108,2,2019
+452111,Department stores(excl. discount department stores),2641,2,2019
+452112,Discount dept. stores,6467,2,2019
+4529,Other general merchandise stores,41518,2,2019
+45291,Warehouse clubs and superstores,35759,2,2019
+45299,All other gen. merchandise stores,5759,2,2019
+453,Miscellaneous store retailers,8938,2,2019
+4532,"Office supplies, stationery, and gift stores",1940,2,2019
+45321,Office supplies and stationery stores,833,2,2019
+45322,"Gift, novelty, and souvenir stores",1107,2,2019
+45330,Used merchandise stores,1342,2,2019
+454,Nonstore retailers,54156,2,2019
+4541,Electronic shopping and mail-order houses,45894,2,2019
+45431,Fuel dealers,3987,2,2019
+722,Food services and drinking places,57307,2,2019
+7224,Drinking places,0,2,2019
+7225,Restaurants and other eating places,50014,2,2019
+722511,Full service restaurants,24992,2,2019
+"722513, 722514, 722515",Limited service eating places,25022,2,2019
+441,Motor vehicle and parts dealers,89728,2,2018
+"44,114,412",Automobile and other motor vehicle dealers,82701,2,2018
+4411,Automobile dealers,77775,2,2018
+44111,New car dealers,67635,2,2018
+44112,Used car dealers,10140,2,2018
+4413,"Automotive parts, acc., and tire stores",7027,2,2018
+"442,443","Furniture, home furn, electronics, and appliance stores",15673,2,2018
+442,Furniture and home furnishings stores,8701,2,2018
+4421,Furniture stores,4798,2,2018
+4422,Home furnishings stores,3903,2,2018
+44221,Floor covering stores,0,2,2018
+442299,All other home furnishings stores,2057,2,2018
+443,Electronics and appliance stores,6972,2,2018
+443141,Household appliance stores,1221,2,2018
+443142,Electronics stores,5751,2,2018
+444,Building mat. and garden equip. and supplies dealers,23507,2,2018
+4441,Building mat. and supplies dealers,20764,2,2018
+44412,Paint and wallpaper stores,821,2,2018
+44413,Hardware stores,1826,2,2018
+445,Food and beverage stores,56483,2,2018
+4451,Grocery stores,50967,2,2018
+44511,Supermarkets and other grocery (except convenience) stores,48708,2,2018
+4453,"Beer, wine, and liquor stores",3792,2,2018
+446,Health and personal care stores,25667,2,2018
+44611,Pharmacies and drug stores,21410,2,2018
+447,Gasoline stations,36879,2,2018
+448,Clothing and clothing access. stores,18424,2,2018
+4481,Clothing stores,12926,2,2018
+44811,Men's clothing stores,626,2,2018
+44812,Women's clothing stores,2635,2,2018
+44814,Family clothing stores,7061,2,2018
+44819,Other clothing stores,1251,2,2018
+4482,Shoe stores,2696,2,2018
+44831,Jewelry stores,2569,2,2018
+451,"Sporting goods, hobby, musical instrument, and book stores",5673,2,2018
+45111,Sporting goods stores,3076,2,2018
+45112,"Hobby, toy, and game stores",1230,2,2018
+451211,Book stores,646,2,2018
+452,General merchandise stores,50770,2,2018
+4521,Department stores,9663,2,2018
+452111,Department stores(excl. discount department stores),3041,2,2018
+452112,Discount dept. stores,6622,2,2018
+4529,Other general merchandise stores,41107,2,2018
+45291,Warehouse clubs and superstores,35461,2,2018
+45299,All other gen. merchandise stores,5646,2,2018
+453,Miscellaneous store retailers,9235,2,2018
+4532,"Office supplies, stationery, and gift stores",2071,2,2018
+45321,Office supplies and stationery stores,887,2,2018
+45322,"Gift, novelty, and souvenir stores",1184,2,2018
+45330,Used merchandise stores,1366,2,2018
+454,Nonstore retailers,48632,2,2018
+4541,Electronic shopping and mail-order houses,40701,2,2018
+45431,Fuel dealers,3807,2,2018
+722,Food services and drinking places,54702,2,2018
+7224,Drinking places,2009,2,2018
+7225,Restaurants and other eating places,47531,2,2018
+722511,Full service restaurants,24068,2,2018
+"722513, 722514, 722515",Limited service eating places,23463,2,2018
+441,Motor vehicle and parts dealers,89414,2,2017
+"44,114,412",Automobile and other motor vehicle dealers,82482,2,2017
+4411,Automobile dealers,77677,2,2017
+44111,New car dealers,67908,2,2017
+44112,Used car dealers,9769,2,2017
+4413,"Automotive parts, acc., and tire stores",6932,2,2017
+"442,443","Furniture, home furn, electronics, and appliance stores",15096,2,2017
+442,Furniture and home furnishings stores,8377,2,2017
+4421,Furniture stores,4757,2,2017
+4422,Home furnishings stores,3620,2,2017
+44221,Floor covering stores,1510,2,2017
+442299,All other home furnishings stores,1980,2,2017
+443,Electronics and appliance stores,6719,2,2017
+443141,Household appliance stores,1290,2,2017
+443142,Electronics stores,5429,2,2017
+444,Building mat. and garden equip. and supplies dealers,22494,2,2017
+4441,Building mat. and supplies dealers,19963,2,2017
+44412,Paint and wallpaper stores,772,2,2017
+44413,Hardware stores,1696,2,2017
+445,Food and beverage stores,54492,2,2017
+4451,Grocery stores,49212,2,2017
+44511,Supermarkets and other grocery (except convenience) stores,47201,2,2017
+4453,"Beer, wine, and liquor stores",3606,2,2017
+446,Health and personal care stores,24718,2,2017
+44611,Pharmacies and drug stores,20599,2,2017
+447,Gasoline stations,34210,2,2017
+448,Clothing and clothing access. stores,18020,2,2017
+4481,Clothing stores,12703,2,2017
+44811,Men's clothing stores,644,2,2017
+44812,Women's clothing stores,2668,2,2017
+44814,Family clothing stores,6542,2,2017
+44819,Other clothing stores,1444,2,2017
+4482,Shoe stores,2674,2,2017
+44831,Jewelry stores,2435,2,2017
+451,"Sporting goods, hobby, musical instrument, and book stores",5549,2,2017
+45111,Sporting goods stores,3030,2,2017
+45112,"Hobby, toy, and game stores",1181,2,2017
+451211,Book stores,672,2,2017
+452,General merchandise stores,49571,2,2017
+4521,Department stores,9909,2,2017
+452111,Department stores(excl. discount department stores),3266,2,2017
+452112,Discount dept. stores,6643,2,2017
+4529,Other general merchandise stores,39662,2,2017
+45291,Warehouse clubs and superstores,34246,2,2017
+45299,All other gen. merchandise stores,5416,2,2017
+453,Miscellaneous store retailers,8804,2,2017
+4532,"Office supplies, stationery, and gift stores",2059,2,2017
+45321,Office supplies and stationery stores,971,2,2017
+45322,"Gift, novelty, and souvenir stores",1088,2,2017
+45330,Used merchandise stores,1249,2,2017
+454,Nonstore retailers,43112,2,2017
+4541,Electronic shopping and mail-order houses,35954,2,2017
+45431,Fuel dealers,3375,2,2017
+722,Food services and drinking places,52835,2,2017
+7224,Drinking places,1955,2,2017
+7225,Restaurants and other eating places,45966,2,2017
+722511,Full service restaurants,23611,2,2017
+"722513, 722514, 722515",Limited service eating places,22355,2,2017
+441,Motor vehicle and parts dealers,90213,2,2016
+"44,114,412",Automobile and other motor vehicle dealers,82909,2,2016
+4411,Automobile dealers,78320,2,2016
+44111,New car dealers,67800,2,2016
+44112,Used car dealers,10520,2,2016
+4413,"Automotive parts, acc., and tire stores",7304,2,2016
+"442,443","Furniture, home furn, electronics, and appliance stores",15986,2,2016
+442,Furniture and home furnishings stores,8507,2,2016
+4421,Furniture stores,4818,2,2016
+4422,Home furnishings stores,3689,2,2016
+44221,Floor covering stores,1503,2,2016
+442299,All other home furnishings stores,2075,2,2016
+443,Electronics and appliance stores,7479,2,2016
+443141,Household appliance stores,1348,2,2016
+443142,Electronics stores,6131,2,2016
+444,Building mat. and garden equip. and supplies dealers,22538,2,2016
+4441,Building mat. and supplies dealers,20032,2,2016
+44412,Paint and wallpaper stores,755,2,2016
+44413,Hardware stores,1757,2,2016
+445,Food and beverage stores,54145,2,2016
+4451,Grocery stores,48747,2,2016
+44511,Supermarkets and other grocery (except convenience) stores,46788,2,2016
+4453,"Beer, wine, and liquor stores",3642,2,2016
+446,Health and personal care stores,26171,2,2016
+44611,Pharmacies and drug stores,21895,2,2016
+447,Gasoline stations,28987,2,2016
+448,Clothing and clothing access. stores,19011,2,2016
+4481,Clothing stores,13188,2,2016
+44811,Men's clothing stores,672,2,2016
+44812,Women's clothing stores,2865,2,2016
+44814,Family clothing stores,6842,2,2016
+44819,Other clothing stores,1367,2,2016
+4482,Shoe stores,2945,2,2016
+44831,Jewelry stores,2637,2,2016
+451,"Sporting goods, hobby, musical instrument, and book stores",5844,2,2016
+45111,Sporting goods stores,3235,2,2016
+45112,"Hobby, toy, and game stores",1221,2,2016
+451211,Book stores,687,2,2016
+452,General merchandise stores,51619,2,2016
+4521,Department stores,11074,2,2016
+452111,Department stores(excl. discount department stores),3727,2,2016
+452112,Discount dept. stores,7347,2,2016
+4529,Other general merchandise stores,40545,2,2016
+45291,Warehouse clubs and superstores,35117,2,2016
+45299,All other gen. merchandise stores,5428,2,2016
+453,Miscellaneous store retailers,8665,2,2016
+4532,"Office supplies, stationery, and gift stores",2242,2,2016
+45321,Office supplies and stationery stores,1104,2,2016
+45322,"Gift, novelty, and souvenir stores",1138,2,2016
+45330,Used merchandise stores,1207,2,2016
+454,Nonstore retailers,40443,2,2016
+4541,Electronic shopping and mail-order houses,33394,2,2016
+45431,Fuel dealers,3342,2,2016
+722,Food services and drinking places,51471,2,2016
+7224,Drinking places,1871,2,2016
+7225,Restaurants and other eating places,45163,2,2016
+722511,Full service restaurants,23401,2,2016
+"722513, 722514, 722515",Limited service eating places,21762,2,2016
+441,Motor vehicle and parts dealers,82387,3,2020
+"44,114,412",Automobile and other motor vehicle dealers,74904,3,2020
+4411,Automobile dealers,68937,3,2020
+44111,New car dealers,59487,3,2020
+44112,Used car dealers,9450,3,2020
+4413,"Automotive parts, acc., and tire stores",7483,3,2020
+"442,443","Furniture, home furn, electronics, and appliance stores",13975,3,2020
+442,Furniture and home furnishings stores,8159,3,2020
+4421,Furniture stores,4499,3,2020
+4422,Home furnishings stores,3660,3,2020
+44221,Floor covering stores,0,3,2020
+442299,All other home furnishings stores,1525,3,2020
+443,Electronics and appliance stores,5816,3,2020
+443141,Household appliance stores,1283,3,2020
+443142,Electronics stores,4533,3,2020
+444,Building mat. and garden equip. and supplies dealers,32152,3,2020
+4441,Building mat. and supplies dealers,27984,3,2020
+44412,Paint and wallpaper stores,1085,3,2020
+44413,Hardware stores,2372,3,2020
+445,Food and beverage stores,80990,3,2020
+4451,Grocery stores,73901,3,2020
+44511,Supermarkets and other grocery (except convenience) stores,71296,3,2020
+4453,"Beer, wine, and liquor stores",5249,3,2020
+446,Health and personal care stores,30888,3,2020
+44611,Pharmacies and drug stores,26974,3,2020
+447,Gasoline stations,34261,3,2020
+448,Clothing and clothing access. stores,10969,3,2020
+4481,Clothing stores,7584,3,2020
+44811,Men's clothing stores,302,3,2020
+44812,Women's clothing stores,1493,3,2020
+44814,Family clothing stores,4259,3,2020
+44819,Other clothing stores,788,3,2020
+4482,Shoe stores,1686,3,2020
+44831,Jewelry stores,1505,3,2020
+451,"Sporting goods, hobby, musical instrument, and book stores",5287,3,2020
+45111,Sporting goods stores,3452,3,2020
+45112,"Hobby, toy, and game stores",862,3,2020
+451211,Book stores,406,3,2020
+452,General merchandise stores,63624,3,2020
+4521,Department stores,8158,3,2020
+452111,Department stores(excl. discount department stores),1305,3,2020
+452112,Discount dept. stores,6853,3,2020
+4529,Other general merchandise stores,55466,3,2020
+45291,Warehouse clubs and superstores,47739,3,2020
+45299,All other gen. merchandise stores,7727,3,2020
+453,Miscellaneous store retailers,9580,3,2020
+4532,"Office supplies, stationery, and gift stores",1646,3,2020
+45321,Office supplies and stationery stores,868,3,2020
+45322,"Gift, novelty, and souvenir stores",778,3,2020
+45330,Used merchandise stores,1028,3,2020
+454,Nonstore retailers,66414,3,2020
+4541,Electronic shopping and mail-order houses,58622,3,2020
+45431,Fuel dealers,3016,3,2020
+722,Food services and drinking places,47740,3,2020
+7224,Drinking places,0,3,2020
+7225,Restaurants and other eating places,42238,3,2020
+722511,Full service restaurants,0,3,2020
+"722513, 722514, 722515",Limited service eating places,24159,3,2020
+441,Motor vehicle and parts dealers,110355,3,2019
+"44,114,412",Automobile and other motor vehicle dealers,101927,3,2019
+4411,Automobile dealers,94814,3,2019
+44111,New car dealers,82564,3,2019
+44112,Used car dealers,12250,3,2019
+4413,"Automotive parts, acc., and tire stores",8428,3,2019
+"442,443","Furniture, home furn, electronics, and appliance stores",17210,3,2019
+442,Furniture and home furnishings stores,10018,3,2019
+4421,Furniture stores,5503,3,2019
+4422,Home furnishings stores,4515,3,2019
+44221,Floor covering stores,0,3,2019
+442299,All other home furnishings stores,2353,3,2019
+443,Electronics and appliance stores,7192,3,2019
+443141,Household appliance stores,1334,3,2019
+443142,Electronics stores,5858,3,2019
+444,Building mat. and garden equip. and supplies dealers,29916,3,2019
+4441,Building mat. and supplies dealers,25871,3,2019
+44412,Paint and wallpaper stores,1029,3,2019
+44413,Hardware stores,2340,3,2019
+445,Food and beverage stores,63504,3,2019
+4451,Grocery stores,57216,3,2019
+44511,Supermarkets and other grocery (except convenience) stores,54609,3,2019
+4453,"Beer, wine, and liquor stores",4445,3,2019
+446,Health and personal care stores,28786,3,2019
+44611,Pharmacies and drug stores,23599,3,2019
+447,Gasoline stations,42065,3,2019
+448,Clothing and clothing access. stores,22059,3,2019
+4481,Clothing stores,16212,3,2019
+44811,Men's clothing stores,733,3,2019
+44812,Women's clothing stores,3430,3,2019
+44814,Family clothing stores,9058,3,2019
+44819,Other clothing stores,1458,3,2019
+4482,Shoe stores,3383,3,2019
+44831,Jewelry stores,2197,3,2019
+451,"Sporting goods, hobby, musical instrument, and book stores",6353,3,2019
+45111,Sporting goods stores,3700,3,2019
+45112,"Hobby, toy, and game stores",1265,3,2019
+451211,Book stores,603,3,2019
+452,General merchandise stores,58788,3,2019
+4521,Department stores,10615,3,2019
+452111,Department stores(excl. discount department stores),3080,3,2019
+452112,Discount dept. stores,7535,3,2019
+4529,Other general merchandise stores,48173,3,2019
+45291,Warehouse clubs and superstores,41608,3,2019
+45299,All other gen. merchandise stores,6565,3,2019
+453,Miscellaneous store retailers,10028,3,2019
+4532,"Office supplies, stationery, and gift stores",2154,3,2019
+45321,Office supplies and stationery stores,889,3,2019
+45322,"Gift, novelty, and souvenir stores",1265,3,2019
+45330,Used merchandise stores,1526,3,2019
+454,Nonstore retailers,58091,3,2019
+4541,Electronic shopping and mail-order houses,49797,3,2019
+45431,Fuel dealers,3738,3,2019
+722,Food services and drinking places,66690,3,2019
+7224,Drinking places,0,3,2019
+7225,Restaurants and other eating places,58242,3,2019
+722511,Full service restaurants,28567,3,2019
+"722513, 722514, 722515",Limited service eating places,29675,3,2019
+441,Motor vehicle and parts dealers,109760,3,2018
+"44,114,412",Automobile and other motor vehicle dealers,101441,3,2018
+4411,Automobile dealers,94586,3,2018
+44111,New car dealers,83075,3,2018
+44112,Used car dealers,11511,3,2018
+4413,"Automotive parts, acc., and tire stores",8319,3,2018
+"442,443","Furniture, home furn, electronics, and appliance stores",17766,3,2018
+442,Furniture and home furnishings stores,10185,3,2018
+4421,Furniture stores,5669,3,2018
+4422,Home furnishings stores,4516,3,2018
+44221,Floor covering stores,0,3,2018
+442299,All other home furnishings stores,2351,3,2018
+443,Electronics and appliance stores,7581,3,2018
+443141,Household appliance stores,1415,3,2018
+443142,Electronics stores,6166,3,2018
+444,Building mat. and garden equip. and supplies dealers,29753,3,2018
+4441,Building mat. and supplies dealers,25690,3,2018
+44412,Paint and wallpaper stores,994,3,2018
+44413,Hardware stores,2317,3,2018
+445,Food and beverage stores,63791,3,2018
+4451,Grocery stores,57356,3,2018
+44511,Supermarkets and other grocery (except convenience) stores,54758,3,2018
+4453,"Beer, wine, and liquor stores",4436,3,2018
+446,Health and personal care stores,28477,3,2018
+44611,Pharmacies and drug stores,23426,3,2018
+447,Gasoline stations,42186,3,2018
+448,Clothing and clothing access. stores,22207,3,2018
+4481,Clothing stores,16382,3,2018
+44811,Men's clothing stores,774,3,2018
+44812,Women's clothing stores,3429,3,2018
+44814,Family clothing stores,9081,3,2018
+44819,Other clothing stores,1471,3,2018
+4482,Shoe stores,3275,3,2018
+44831,Jewelry stores,2293,3,2018
+451,"Sporting goods, hobby, musical instrument, and book stores",7049,3,2018
+45111,Sporting goods stores,3853,3,2018
+45112,"Hobby, toy, and game stores",1720,3,2018
+451211,Book stores,665,3,2018
+452,General merchandise stores,59068,3,2018
+4521,Department stores,11481,3,2018
+452111,Department stores(excl. discount department stores),3643,3,2018
+452112,Discount dept. stores,7838,3,2018
+4529,Other general merchandise stores,47587,3,2018
+45291,Warehouse clubs and superstores,41098,3,2018
+45299,All other gen. merchandise stores,6489,3,2018
+453,Miscellaneous store retailers,10348,3,2018
+4532,"Office supplies, stationery, and gift stores",2311,3,2018
+45321,Office supplies and stationery stores,950,3,2018
+45322,"Gift, novelty, and souvenir stores",1361,3,2018
+45330,Used merchandise stores,1544,3,2018
+454,Nonstore retailers,54589,3,2018
+4541,Electronic shopping and mail-order houses,46222,3,2018
+45431,Fuel dealers,3582,3,2018
+722,Food services and drinking places,63389,3,2018
+7224,Drinking places,0,3,2018
+7225,Restaurants and other eating places,55287,3,2018
+722511,Full service restaurants,27766,3,2018
+"722513, 722514, 722515",Limited service eating places,27521,3,2018
+441,Motor vehicle and parts dealers,106286,3,2017
+"44,114,412",Automobile and other motor vehicle dealers,97923,3,2017
+4411,Automobile dealers,91087,3,2017
+44111,New car dealers,79946,3,2017
+44112,Used car dealers,11141,3,2017
+4413,"Automotive parts, acc., and tire stores",8363,3,2017
+"442,443","Furniture, home furn, electronics, and appliance stores",17310,3,2017
+442,Furniture and home furnishings stores,9815,3,2017
+4421,Furniture stores,5476,3,2017
+4422,Home furnishings stores,4339,3,2017
+44221,Floor covering stores,0,3,2017
+442299,All other home furnishings stores,2317,3,2017
+443,Electronics and appliance stores,7495,3,2017
+443141,Household appliance stores,1493,3,2017
+443142,Electronics stores,6002,3,2017
+444,Building mat. and garden equip. and supplies dealers,29230,3,2017
+4441,Building mat. and supplies dealers,25217,3,2017
+44412,Paint and wallpaper stores,978,3,2017
+44413,Hardware stores,2127,3,2017
+445,Food and beverage stores,60237,3,2017
+4451,Grocery stores,54366,3,2017
+44511,Supermarkets and other grocery (except convenience) stores,52090,3,2017
+4453,"Beer, wine, and liquor stores",4074,3,2017
+446,Health and personal care stores,27499,3,2017
+44611,Pharmacies and drug stores,22640,3,2017
+447,Gasoline stations,39103,3,2017
+448,Clothing and clothing access. stores,21332,3,2017
+4481,Clothing stores,15785,3,2017
+44811,Men's clothing stores,797,3,2017
+44812,Women's clothing stores,3364,3,2017
+44814,Family clothing stores,8372,3,2017
+44819,Other clothing stores,1579,3,2017
+4482,Shoe stores,3233,3,2017
+44831,Jewelry stores,2101,3,2017
+451,"Sporting goods, hobby, musical instrument, and book stores",6623,3,2017
+45111,Sporting goods stores,3780,3,2017
+45112,"Hobby, toy, and game stores",1355,3,2017
+451211,Book stores,690,3,2017
+452,General merchandise stores,55762,3,2017
+4521,Department stores,11630,3,2017
+452111,Department stores(excl. discount department stores),3768,3,2017
+452112,Discount dept. stores,7862,3,2017
+4529,Other general merchandise stores,44132,3,2017
+45291,Warehouse clubs and superstores,37986,3,2017
+45299,All other gen. merchandise stores,6146,3,2017
+453,Miscellaneous store retailers,9919,3,2017
+4532,"Office supplies, stationery, and gift stores",2291,3,2017
+45321,Office supplies and stationery stores,1058,3,2017
+45322,"Gift, novelty, and souvenir stores",1233,3,2017
+45330,Used merchandise stores,1426,3,2017
+454,Nonstore retailers,49590,3,2017
+4541,Electronic shopping and mail-order houses,41820,3,2017
+45431,Fuel dealers,3371,3,2017
+722,Food services and drinking places,60191,3,2017
+7224,Drinking places,2278,3,2017
+7225,Restaurants and other eating places,52531,3,2017
+722511,Full service restaurants,26690,3,2017
+"722513, 722514, 722515",Limited service eating places,25841,3,2017
+441,Motor vehicle and parts dealers,101208,3,2016
+"44,114,412",Automobile and other motor vehicle dealers,93030,3,2016
+4411,Automobile dealers,86386,3,2016
+44111,New car dealers,76194,3,2016
+44112,Used car dealers,10192,3,2016
+4413,"Automotive parts, acc., and tire stores",8178,3,2016
+"442,443","Furniture, home furn, electronics, and appliance stores",16967,3,2016
+442,Furniture and home furnishings stores,9402,3,2016
+4421,Furniture stores,5197,3,2016
+4422,Home furnishings stores,4205,3,2016
+44221,Floor covering stores,1780,3,2016
+442299,All other home furnishings stores,2283,3,2016
+443,Electronics and appliance stores,7565,3,2016
+443141,Household appliance stores,1411,3,2016
+443142,Electronics stores,6154,3,2016
+444,Building mat. and garden equip. and supplies dealers,29101,3,2016
+4441,Building mat. and supplies dealers,24796,3,2016
+44412,Paint and wallpaper stores,931,3,2016
+44413,Hardware stores,2123,3,2016
+445,Food and beverage stores,58086,3,2016
+4451,Grocery stores,52254,3,2016
+44511,Supermarkets and other grocery (except convenience) stores,50065,3,2016
+4453,"Beer, wine, and liquor stores",3907,3,2016
+446,Health and personal care stores,27682,3,2016
+44611,Pharmacies and drug stores,23016,3,2016
+447,Gasoline stations,33586,3,2016
+448,Clothing and clothing access. stores,21555,3,2016
+4481,Clothing stores,15945,3,2016
+44811,Men's clothing stores,767,3,2016
+44812,Women's clothing stores,3565,3,2016
+44814,Family clothing stores,8448,3,2016
+44819,Other clothing stores,1483,3,2016
+4482,Shoe stores,3238,3,2016
+44831,Jewelry stores,2129,3,2016
+451,"Sporting goods, hobby, musical instrument, and book stores",6923,3,2016
+45111,Sporting goods stores,4075,3,2016
+45112,"Hobby, toy, and game stores",1374,3,2016
+451211,Book stores,681,3,2016
+452,General merchandise stores,56375,3,2016
+4521,Department stores,12568,3,2016
+452111,Department stores(excl. discount department stores),4289,3,2016
+452112,Discount dept. stores,8279,3,2016
+4529,Other general merchandise stores,43807,3,2016
+45291,Warehouse clubs and superstores,37820,3,2016
+45299,All other gen. merchandise stores,5987,3,2016
+453,Miscellaneous store retailers,9714,3,2016
+4532,"Office supplies, stationery, and gift stores",2379,3,2016
+45321,Office supplies and stationery stores,1136,3,2016
+45322,"Gift, novelty, and souvenir stores",1243,3,2016
+45330,Used merchandise stores,1307,3,2016
+454,Nonstore retailers,43853,3,2016
+4541,Electronic shopping and mail-order houses,37066,3,2016
+45431,Fuel dealers,2566,3,2016
+722,Food services and drinking places,55860,3,2016
+7224,Drinking places,2039,3,2016
+7225,Restaurants and other eating places,49144,3,2016
+722511,Full service restaurants,24876,3,2016
+"722513, 722514, 722515",Limited service eating places,24268,3,2016
+441,Motor vehicle and parts dealers,69534,4,2020
+"44,114,412",Automobile and other motor vehicle dealers,62554,4,2020
+4411,Automobile dealers,56635,4,2020
+44111,New car dealers,50131,4,2020
+44112,Used car dealers,6504,4,2020
+4413,"Automotive parts, acc., and tire stores",6980,4,2020
+"442,443","Furniture, home furn, electronics, and appliance stores",7017,4,2020
+442,Furniture and home furnishings stores,3977,4,2020
+4421,Furniture stores,2004,4,2020
+4422,Home furnishings stores,1973,4,2020
+44221,Floor covering stores,0,4,2020
+442299,All other home furnishings stores,403,4,2020
+443,Electronics and appliance stores,3040,4,2020
+443141,Household appliance stores,1128,4,2020
+443142,Electronics stores,1912,4,2020
+444,Building mat. and garden equip. and supplies dealers,35916,4,2020
+4441,Building mat. and supplies dealers,30023,4,2020
+44412,Paint and wallpaper stores,947,4,2020
+44413,Hardware stores,2839,4,2020
+445,Food and beverage stores,71064,4,2020
+4451,Grocery stores,64383,4,2020
+44511,Supermarkets and other grocery (except convenience) stores,62127,4,2020
+4453,"Beer, wine, and liquor stores",4938,4,2020
+446,Health and personal care stores,25724,4,2020
+44611,Pharmacies and drug stores,23910,4,2020
+447,Gasoline stations,26810,4,2020
+448,Clothing and clothing access. stores,2744,4,2020
+4481,Clothing stores,1736,4,2020
+44811,Men's clothing stores,86,4,2020
+44812,Women's clothing stores,469,4,2020
+44814,Family clothing stores,688,4,2020
+44819,Other clothing stores,248,4,2020
+4482,Shoe stores,462,4,2020
+44831,Jewelry stores,511,4,2020
+451,"Sporting goods, hobby, musical instrument, and book stores",3484,4,2020
+45111,Sporting goods stores,2599,4,2020
+45112,"Hobby, toy, and game stores",360,4,2020
+451211,Book stores,169,4,2020
+452,General merchandise stores,54576,4,2020
+4521,Department stores,5941,4,2020
+452111,Department stores(excl. discount department stores),11,4,2020
+452112,Discount dept. stores,5930,4,2020
+4529,Other general merchandise stores,48635,4,2020
+45291,Warehouse clubs and superstores,41322,4,2020
+45299,All other gen. merchandise stores,7313,4,2020
+453,Miscellaneous store retailers,7319,4,2020
+4532,"Office supplies, stationery, and gift stores",816,4,2020
+45321,Office supplies and stationery stores,605,4,2020
+45322,"Gift, novelty, and souvenir stores",211,4,2020
+45330,Used merchandise stores,420,4,2020
+454,Nonstore retailers,73022,4,2020
+4541,Electronic shopping and mail-order houses,67339,4,2020
+45431,Fuel dealers,2069,4,2020
+722,Food services and drinking places,30017,4,2020
+7224,Drinking places,0,4,2020
+7225,Restaurants and other eating places,27674,4,2020
+722511,Full service restaurants,0,4,2020
+"722513, 722514, 722515",Limited service eating places,20001,4,2020
+441,Motor vehicle and parts dealers,103370,4,2019
+"44,114,412",Automobile and other motor vehicle dealers,95090,4,2019
+4411,Automobile dealers,87537,4,2019
+44111,New car dealers,76907,4,2019
+44112,Used car dealers,10630,4,2019
+4413,"Automotive parts, acc., and tire stores",8280,4,2019
+"442,443","Furniture, home furn, electronics, and appliance stores",16068,4,2019
+442,Furniture and home furnishings stores,9579,4,2019
+4421,Furniture stores,5065,4,2019
+4422,Home furnishings stores,4514,4,2019
+44221,Floor covering stores,0,4,2019
+442299,All other home furnishings stores,2300,4,2019
+443,Electronics and appliance stores,6489,4,2019
+443141,Household appliance stores,1310,4,2019
+443142,Electronics stores,5179,4,2019
+444,Building mat. and garden equip. and supplies dealers,34033,4,2019
+4441,Building mat. and supplies dealers,29233,4,2019
+44412,Paint and wallpaper stores,982,4,2019
+44413,Hardware stores,2517,4,2019
+445,Food and beverage stores,62402,4,2019
+4451,Grocery stores,56053,4,2019
+44511,Supermarkets and other grocery (except convenience) stores,53382,4,2019
+4453,"Beer, wine, and liquor stores",4358,4,2019
+446,Health and personal care stores,28402,4,2019
+44611,Pharmacies and drug stores,23766,4,2019
+447,Gasoline stations,44270,4,2019
+448,Clothing and clothing access. stores,21500,4,2019
+4481,Clothing stores,15820,4,2019
+44811,Men's clothing stores,846,4,2019
+44812,Women's clothing stores,3438,4,2019
+44814,Family clothing stores,8747,4,2019
+44819,Other clothing stores,1285,4,2019
+4482,Shoe stores,3043,4,2019
+44831,Jewelry stores,2378,4,2019
+451,"Sporting goods, hobby, musical instrument, and book stores",6253,4,2019
+45111,Sporting goods stores,3678,4,2019
+45112,"Hobby, toy, and game stores",1159,4,2019
+451211,Book stores,650,4,2019
+452,General merchandise stores,56991,4,2019
+4521,Department stores,10422,4,2019
+452111,Department stores(excl. discount department stores),3098,4,2019
+452112,Discount dept. stores,7324,4,2019
+4529,Other general merchandise stores,46569,4,2019
+45291,Warehouse clubs and superstores,39923,4,2019
+45299,All other gen. merchandise stores,6646,4,2019
+453,Miscellaneous store retailers,10492,4,2019
+4532,"Office supplies, stationery, and gift stores",2166,4,2019
+45321,Office supplies and stationery stores,848,4,2019
+45322,"Gift, novelty, and souvenir stores",1318,4,2019
+45330,Used merchandise stores,1583,4,2019
+454,Nonstore retailers,59140,4,2019
+4541,Electronic shopping and mail-order houses,51785,4,2019
+45431,Fuel dealers,2612,4,2019
+722,Food services and drinking places,63999,4,2019
+7224,Drinking places,0,4,2019
+7225,Restaurants and other eating places,55676,4,2019
+722511,Full service restaurants,27052,4,2019
+"722513, 722514, 722515",Limited service eating places,28624,4,2019
+441,Motor vehicle and parts dealers,99466,4,2018
+"44,114,412",Automobile and other motor vehicle dealers,91695,4,2018
+4411,Automobile dealers,84366,4,2018
+44111,New car dealers,74595,4,2018
+44112,Used car dealers,9771,4,2018
+4413,"Automotive parts, acc., and tire stores",7771,4,2018
+"442,443","Furniture, home furn, electronics, and appliance stores",16200,4,2018
+442,Furniture and home furnishings stores,9365,4,2018
+4421,Furniture stores,5011,4,2018
+4422,Home furnishings stores,4354,4,2018
+44221,Floor covering stores,0,4,2018
+442299,All other home furnishings stores,2183,4,2018
+443,Electronics and appliance stores,6835,4,2018
+443141,Household appliance stores,1315,4,2018
+443142,Electronics stores,5520,4,2018
+444,Building mat. and garden equip. and supplies dealers,32034,4,2018
+4441,Building mat. and supplies dealers,27423,4,2018
+44412,Paint and wallpaper stores,1016,4,2018
+44413,Hardware stores,2362,4,2018
+445,Food and beverage stores,59571,4,2018
+4451,Grocery stores,53647,4,2018
+44511,Supermarkets and other grocery (except convenience) stores,50995,4,2018
+4453,"Beer, wine, and liquor stores",4143,4,2018
+446,Health and personal care stores,27155,4,2018
+44611,Pharmacies and drug stores,22611,4,2018
+447,Gasoline stations,42573,4,2018
+448,Clothing and clothing access. stores,20463,4,2018
+4481,Clothing stores,14945,4,2018
+44811,Men's clothing stores,830,4,2018
+44812,Women's clothing stores,3325,4,2018
+44814,Family clothing stores,8070,4,2018
+44819,Other clothing stores,1268,4,2018
+4482,Shoe stores,2920,4,2018
+44831,Jewelry stores,2348,4,2018
+451,"Sporting goods, hobby, musical instrument, and book stores",6329,4,2018
+45111,Sporting goods stores,3597,4,2018
+45112,"Hobby, toy, and game stores",1358,4,2018
+451211,Book stores,638,4,2018
+452,General merchandise stores,53805,4,2018
+4521,Department stores,10567,4,2018
+452111,Department stores(excl. discount department stores),3551,4,2018
+452112,Discount dept. stores,7016,4,2018
+4529,Other general merchandise stores,43238,4,2018
+45291,Warehouse clubs and superstores,37228,4,2018
+45299,All other gen. merchandise stores,6010,4,2018
+453,Miscellaneous store retailers,10121,4,2018
+4532,"Office supplies, stationery, and gift stores",2193,4,2018
+45321,Office supplies and stationery stores,859,4,2018
+45322,"Gift, novelty, and souvenir stores",1334,4,2018
+45330,Used merchandise stores,1437,4,2018
+454,Nonstore retailers,52528,4,2018
+4541,Electronic shopping and mail-order houses,45015,4,2018
+45431,Fuel dealers,2818,4,2018
+722,Food services and drinking places,60128,4,2018
+7224,Drinking places,0,4,2018
+7225,Restaurants and other eating places,52178,4,2018
+722511,Full service restaurants,25987,4,2018
+"722513, 722514, 722515",Limited service eating places,26191,4,2018
+441,Motor vehicle and parts dealers,97312,4,2017
+"44,114,412",Automobile and other motor vehicle dealers,89632,4,2017
+4411,Automobile dealers,82252,4,2017
+44111,New car dealers,72863,4,2017
+44112,Used car dealers,9389,4,2017
+4413,"Automotive parts, acc., and tire stores",7680,4,2017
+"442,443","Furniture, home furn, electronics, and appliance stores",15399,4,2017
+442,Furniture and home furnishings stores,8726,4,2017
+4421,Furniture stores,4749,4,2017
+4422,Home furnishings stores,3977,4,2017
+44221,Floor covering stores,0,4,2017
+442299,All other home furnishings stores,2117,4,2017
+443,Electronics and appliance stores,6673,4,2017
+443141,Household appliance stores,1350,4,2017
+443142,Electronics stores,5323,4,2017
+444,Building mat. and garden equip. and supplies dealers,31259,4,2017
+4441,Building mat. and supplies dealers,25962,4,2017
+44412,Paint and wallpaper stores,935,4,2017
+44413,Hardware stores,2208,4,2017
+445,Food and beverage stores,59605,4,2017
+4451,Grocery stores,53635,4,2017
+44511,Supermarkets and other grocery (except convenience) stores,51267,4,2017
+4453,"Beer, wine, and liquor stores",4077,4,2017
+446,Health and personal care stores,25819,4,2017
+44611,Pharmacies and drug stores,21612,4,2017
+447,Gasoline stations,39460,4,2017
+448,Clothing and clothing access. stores,21143,4,2017
+4481,Clothing stores,15683,4,2017
+44811,Men's clothing stores,834,4,2017
+44812,Women's clothing stores,3496,4,2017
+44814,Family clothing stores,8440,4,2017
+44819,Other clothing stores,1376,4,2017
+4482,Shoe stores,3076,4,2017
+44831,Jewelry stores,2172,4,2017
+451,"Sporting goods, hobby, musical instrument, and book stores",6339,4,2017
+45111,Sporting goods stores,3645,4,2017
+45112,"Hobby, toy, and game stores",1278,4,2017
+451211,Book stores,712,4,2017
+452,General merchandise stores,55651,4,2017
+4521,Department stores,11460,4,2017
+452111,Department stores(excl. discount department stores),3789,4,2017
+452112,Discount dept. stores,7671,4,2017
+4529,Other general merchandise stores,44191,4,2017
+45291,Warehouse clubs and superstores,38044,4,2017
+45299,All other gen. merchandise stores,6147,4,2017
+453,Miscellaneous store retailers,9692,4,2017
+4532,"Office supplies, stationery, and gift stores",2206,4,2017
+45321,Office supplies and stationery stores,920,4,2017
+45322,"Gift, novelty, and souvenir stores",1286,4,2017
+45330,Used merchandise stores,1321,4,2017
+454,Nonstore retailers,45486,4,2017
+4541,Electronic shopping and mail-order houses,39274,4,2017
+45431,Fuel dealers,2129,4,2017
+722,Food services and drinking places,58623,4,2017
+7224,Drinking places,2119,4,2017
+7225,Restaurants and other eating places,50905,4,2017
+722511,Full service restaurants,25741,4,2017
+"722513, 722514, 722515",Limited service eating places,25164,4,2017
+441,Motor vehicle and parts dealers,97738,4,2016
+"44,114,412",Automobile and other motor vehicle dealers,90067,4,2016
+4411,Automobile dealers,83117,4,2016
+44111,New car dealers,73798,4,2016
+44112,Used car dealers,9319,4,2016
+4413,"Automotive parts, acc., and tire stores",7671,4,2016
+"442,443","Furniture, home furn, electronics, and appliance stores",15464,4,2016
+442,Furniture and home furnishings stores,8734,4,2016
+4421,Furniture stores,4716,4,2016
+4422,Home furnishings stores,4018,4,2016
+44221,Floor covering stores,1727,4,2016
+442299,All other home furnishings stores,2141,4,2016
+443,Electronics and appliance stores,6730,4,2016
+443141,Household appliance stores,1334,4,2016
+443142,Electronics stores,5396,4,2016
+444,Building mat. and garden equip. and supplies dealers,31497,4,2016
+4441,Building mat. and supplies dealers,26164,4,2016
+44412,Paint and wallpaper stores,944,4,2016
+44413,Hardware stores,2159,4,2016
+445,Food and beverage stores,56266,4,2016
+4451,Grocery stores,50543,4,2016
+44511,Supermarkets and other grocery (except convenience) stores,48356,4,2016
+4453,"Beer, wine, and liquor stores",3966,4,2016
+446,Health and personal care stores,26302,4,2016
+44611,Pharmacies and drug stores,22120,4,2016
+447,Gasoline stations,35277,4,2016
+448,Clothing and clothing access. stores,20493,4,2016
+4481,Clothing stores,15042,4,2016
+44811,Men's clothing stores,792,4,2016
+44812,Women's clothing stores,3429,4,2016
+44814,Family clothing stores,7971,4,2016
+44819,Other clothing stores,1378,4,2016
+4482,Shoe stores,2915,4,2016
+44831,Jewelry stores,2276,4,2016
+451,"Sporting goods, hobby, musical instrument, and book stores",6499,4,2016
+45111,Sporting goods stores,3792,4,2016
+45112,"Hobby, toy, and game stores",1250,4,2016
+451211,Book stores,671,4,2016
+452,General merchandise stores,53822,4,2016
+4521,Department stores,11647,4,2016
+452111,Department stores(excl. discount department stores),4076,4,2016
+452112,Discount dept. stores,7571,4,2016
+4529,Other general merchandise stores,42175,4,2016
+45291,Warehouse clubs and superstores,36557,4,2016
+45299,All other gen. merchandise stores,5618,4,2016
+453,Miscellaneous store retailers,9789,4,2016
+4532,"Office supplies, stationery, and gift stores",2381,4,2016
+45321,Office supplies and stationery stores,1065,4,2016
+45322,"Gift, novelty, and souvenir stores",1316,4,2016
+45330,Used merchandise stores,1318,4,2016
+454,Nonstore retailers,41619,4,2016
+4541,Electronic shopping and mail-order houses,35531,4,2016
+45431,Fuel dealers,1973,4,2016
+722,Food services and drinking places,56355,4,2016
+7224,Drinking places,2002,4,2016
+7225,Restaurants and other eating places,48965,4,2016
+722511,Full service restaurants,24833,4,2016
+"722513, 722514, 722515",Limited service eating places,24132,4,2016
+441,Motor vehicle and parts dealers,107362,5,2020
+"44,114,412",Automobile and other motor vehicle dealers,98852,5,2020
+4411,Automobile dealers,88480,5,2020
+44111,New car dealers,77773,5,2020
+44112,Used car dealers,10707,5,2020
+4413,"Automotive parts, acc., and tire stores",8510,5,2020
+"442,443","Furniture, home furn, electronics, and appliance stores",11301,5,2020
+442,Furniture and home furnishings stores,7349,5,2020
+4421,Furniture stores,4259,5,2020
+4422,Home furnishings stores,3090,5,2020
+44221,Floor covering stores,0,5,2020
+442299,All other home furnishings stores,1276,5,2020
+443,Electronics and appliance stores,3952,5,2020
+443141,Household appliance stores,1441,5,2020
+443142,Electronics stores,2511,5,2020
+444,Building mat. and garden equip. and supplies dealers,42422,5,2020
+4441,Building mat. and supplies dealers,35986,5,2020
+44412,Paint and wallpaper stores,1092,5,2020
+44413,Hardware stores,3495,5,2020
+445,Food and beverage stores,76438,5,2020
+4451,Grocery stores,68436,5,2020
+44511,Supermarkets and other grocery (except convenience) stores,65735,5,2020
+4453,"Beer, wine, and liquor stores",5950,5,2020
+446,Health and personal care stores,26251,5,2020
+44611,Pharmacies and drug stores,23648,5,2020
+447,Gasoline stations,32045,5,2020
+448,Clothing and clothing access. stores,8787,5,2020
+4481,Clothing stores,5504,5,2020
+44811,Men's clothing stores,155,5,2020
+44812,Women's clothing stores,1099,5,2020
+44814,Family clothing stores,3089,5,2020
+44819,Other clothing stores,569,5,2020
+4482,Shoe stores,1624,5,2020
+44831,Jewelry stores,1557,5,2020
+451,"Sporting goods, hobby, musical instrument, and book stores",6353,5,2020
+45111,Sporting goods stores,4378,5,2020
+45112,"Hobby, toy, and game stores",1120,5,2020
+451211,Book stores,275,5,2020
+452,General merchandise stores,63381,5,2020
+4521,Department stores,8768,5,2020
+452111,Department stores(excl. discount department stores),1049,5,2020
+452112,Discount dept. stores,7719,5,2020
+4529,Other general merchandise stores,54613,5,2020
+45291,Warehouse clubs and superstores,46287,5,2020
+45299,All other gen. merchandise stores,8326,5,2020
+453,Miscellaneous store retailers,9812,5,2020
+4532,"Office supplies, stationery, and gift stores",1220,5,2020
+45321,Office supplies and stationery stores,707,5,2020
+45322,"Gift, novelty, and souvenir stores",513,5,2020
+45330,Used merchandise stores,882,5,2020
+454,Nonstore retailers,78134,5,2020
+4541,Electronic shopping and mail-order houses,72558,5,2020
+45431,Fuel dealers,1741,5,2020
+722,Food services and drinking places,42321,5,2020
+7224,Drinking places,0,5,2020
+7225,Restaurants and other eating places,39803,5,2020
+722511,Full service restaurants,0,5,2020
+"722513, 722514, 722515",Limited service eating places,26498,5,2020
+441,Motor vehicle and parts dealers,111785,5,2019
+"44,114,412",Automobile and other motor vehicle dealers,103213,5,2019
+4411,Automobile dealers,94742,5,2019
+44111,New car dealers,83937,5,2019
+44112,Used car dealers,10805,5,2019
+4413,"Automotive parts, acc., and tire stores",8572,5,2019
+"442,443","Furniture, home furn, electronics, and appliance stores",17408,5,2019
+442,Furniture and home furnishings stores,10296,5,2019
+4421,Furniture stores,5566,5,2019
+4422,Home furnishings stores,4730,5,2019
+44221,Floor covering stores,0,5,2019
+442299,All other home furnishings stores,2480,5,2019
+443,Electronics and appliance stores,7112,5,2019
+443141,Household appliance stores,1471,5,2019
+443142,Electronics stores,5641,5,2019
+444,Building mat. and garden equip. and supplies dealers,37235,5,2019
+4441,Building mat. and supplies dealers,32196,5,2019
+44412,Paint and wallpaper stores,1192,5,2019
+44413,Hardware stores,2821,5,2019
+445,Food and beverage stores,66510,5,2019
+4451,Grocery stores,59656,5,2019
+44511,Supermarkets and other grocery (except convenience) stores,56715,5,2019
+4453,"Beer, wine, and liquor stores",4861,5,2019
+446,Health and personal care stores,29487,5,2019
+44611,Pharmacies and drug stores,24612,5,2019
+447,Gasoline stations,47387,5,2019
+448,Clothing and clothing access. stores,23079,5,2019
+4481,Clothing stores,16829,5,2019
+44811,Men's clothing stores,852,5,2019
+44812,Women's clothing stores,3636,5,2019
+44814,Family clothing stores,9381,5,2019
+44819,Other clothing stores,1395,5,2019
+4482,Shoe stores,3018,5,2019
+44831,Jewelry stores,2898,5,2019
+451,"Sporting goods, hobby, musical instrument, and book stores",6522,5,2019
+45111,Sporting goods stores,3826,5,2019
+45112,"Hobby, toy, and game stores",1235,5,2019
+451211,Book stores,696,5,2019
+452,General merchandise stores,60909,5,2019
+4521,Department stores,11267,5,2019
+452111,Department stores(excl. discount department stores),3287,5,2019
+452112,Discount dept. stores,7980,5,2019
+4529,Other general merchandise stores,49642,5,2019
+45291,Warehouse clubs and superstores,42586,5,2019
+45299,All other gen. merchandise stores,7056,5,2019
+453,Miscellaneous store retailers,12343,5,2019
+4532,"Office supplies, stationery, and gift stores",2497,5,2019
+45321,Office supplies and stationery stores,828,5,2019
+45322,"Gift, novelty, and souvenir stores",1669,5,2019
+45330,Used merchandise stores,1446,5,2019
+454,Nonstore retailers,63232,5,2019
+4541,Electronic shopping and mail-order houses,55752,5,2019
+45431,Fuel dealers,2193,5,2019
+722,Food services and drinking places,68306,5,2019
+7224,Drinking places,0,5,2019
+7225,Restaurants and other eating places,59735,5,2019
+722511,Full service restaurants,29627,5,2019
+"722513, 722514, 722515",Limited service eating places,30108,5,2019
+441,Motor vehicle and parts dealers,109239,5,2018
+"44,114,412",Automobile and other motor vehicle dealers,100854,5,2018
+4411,Automobile dealers,92690,5,2018
+44111,New car dealers,82342,5,2018
+44112,Used car dealers,10348,5,2018
+4413,"Automotive parts, acc., and tire stores",8385,5,2018
+"442,443","Furniture, home furn, electronics, and appliance stores",17511,5,2018
+442,Furniture and home furnishings stores,10114,5,2018
+4421,Furniture stores,5377,5,2018
+4422,Home furnishings stores,4737,5,2018
+44221,Floor covering stores,0,5,2018
+442299,All other home furnishings stores,2395,5,2018
+443,Electronics and appliance stores,7397,5,2018
+443141,Household appliance stores,1498,5,2018
+443142,Electronics stores,5899,5,2018
+444,Building mat. and garden equip. and supplies dealers,37940,5,2018
+4441,Building mat. and supplies dealers,32365,5,2018
+44412,Paint and wallpaper stores,1152,5,2018
+44413,Hardware stores,2726,5,2018
+445,Food and beverage stores,64527,5,2018
+4451,Grocery stores,57855,5,2018
+44511,Supermarkets and other grocery (except convenience) stores,55109,5,2018
+4453,"Beer, wine, and liquor stores",4702,5,2018
+446,Health and personal care stores,28960,5,2018
+44611,Pharmacies and drug stores,24157,5,2018
+447,Gasoline stations,47442,5,2018
+448,Clothing and clothing access. stores,23560,5,2018
+4481,Clothing stores,17132,5,2018
+44811,Men's clothing stores,867,5,2018
+44812,Women's clothing stores,3692,5,2018
+44814,Family clothing stores,9546,5,2018
+44819,Other clothing stores,1436,5,2018
+4482,Shoe stores,3158,5,2018
+44831,Jewelry stores,2973,5,2018
+451,"Sporting goods, hobby, musical instrument, and book stores",6788,5,2018
+45111,Sporting goods stores,3859,5,2018
+45112,"Hobby, toy, and game stores",1438,5,2018
+451211,Book stores,707,5,2018
+452,General merchandise stores,60281,5,2018
+4521,Department stores,12014,5,2018
+452111,Department stores(excl. discount department stores),3860,5,2018
+452112,Discount dept. stores,8154,5,2018
+4529,Other general merchandise stores,48267,5,2018
+45291,Warehouse clubs and superstores,41417,5,2018
+45299,All other gen. merchandise stores,6850,5,2018
+453,Miscellaneous store retailers,12184,5,2018
+4532,"Office supplies, stationery, and gift stores",2469,5,2018
+45321,Office supplies and stationery stores,864,5,2018
+45322,"Gift, novelty, and souvenir stores",1605,5,2018
+45330,Used merchandise stores,1495,5,2018
+454,Nonstore retailers,55618,5,2018
+4541,Electronic shopping and mail-order houses,48188,5,2018
+45431,Fuel dealers,2211,5,2018
+722,Food services and drinking places,63941,5,2018
+7224,Drinking places,0,5,2018
+7225,Restaurants and other eating places,55905,5,2018
+722511,Full service restaurants,27820,5,2018
+"722513, 722514, 722515",Limited service eating places,28085,5,2018
+441,Motor vehicle and parts dealers,105632,5,2017
+"44,114,412",Automobile and other motor vehicle dealers,97493,5,2017
+4411,Automobile dealers,89606,5,2017
+44111,New car dealers,79723,5,2017
+44112,Used car dealers,9883,5,2017
+4413,"Automotive parts, acc., and tire stores",8139,5,2017
+"442,443","Furniture, home furn, electronics, and appliance stores",16729,5,2017
+442,Furniture and home furnishings stores,9574,5,2017
+4421,Furniture stores,5140,5,2017
+4422,Home furnishings stores,4434,5,2017
+44221,Floor covering stores,0,5,2017
+442299,All other home furnishings stores,2401,5,2017
+443,Electronics and appliance stores,7155,5,2017
+443141,Household appliance stores,1453,5,2017
+443142,Electronics stores,5702,5,2017
+444,Building mat. and garden equip. and supplies dealers,35632,5,2017
+4441,Building mat. and supplies dealers,29761,5,2017
+44412,Paint and wallpaper stores,1082,5,2017
+44413,Hardware stores,2441,5,2017
+445,Food and beverage stores,62115,5,2017
+4451,Grocery stores,55709,5,2017
+44511,Supermarkets and other grocery (except convenience) stores,53223,5,2017
+4453,"Beer, wine, and liquor stores",4456,5,2017
+446,Health and personal care stores,27376,5,2017
+44611,Pharmacies and drug stores,23007,5,2017
+447,Gasoline stations,41292,5,2017
+448,Clothing and clothing access. stores,21945,5,2017
+4481,Clothing stores,16005,5,2017
+44811,Men's clothing stores,873,5,2017
+44812,Women's clothing stores,3487,5,2017
+44814,Family clothing stores,8623,5,2017
+44819,Other clothing stores,1479,5,2017
+4482,Shoe stores,2918,5,2017
+44831,Jewelry stores,2746,5,2017
+451,"Sporting goods, hobby, musical instrument, and book stores",6552,5,2017
+45111,Sporting goods stores,3802,5,2017
+45112,"Hobby, toy, and game stores",1247,5,2017
+451211,Book stores,766,5,2017
+452,General merchandise stores,56603,5,2017
+4521,Department stores,11833,5,2017
+452111,Department stores(excl. discount department stores),3983,5,2017
+452112,Discount dept. stores,7850,5,2017
+4529,Other general merchandise stores,44770,5,2017
+45291,Warehouse clubs and superstores,38470,5,2017
+45299,All other gen. merchandise stores,6300,5,2017
+453,Miscellaneous store retailers,11205,5,2017
+4532,"Office supplies, stationery, and gift stores",2449,5,2017
+45321,Office supplies and stationery stores,961,5,2017
+45322,"Gift, novelty, and souvenir stores",1488,5,2017
+45330,Used merchandise stores,1388,5,2017
+454,Nonstore retailers,49369,5,2017
+4541,Electronic shopping and mail-order houses,42753,5,2017
+45431,Fuel dealers,1914,5,2017
+722,Food services and drinking places,60171,5,2017
+7224,Drinking places,2182,5,2017
+7225,Restaurants and other eating places,52503,5,2017
+722511,Full service restaurants,26175,5,2017
+"722513, 722514, 722515",Limited service eating places,26328,5,2017
+441,Motor vehicle and parts dealers,98960,5,2016
+"44,114,412",Automobile and other motor vehicle dealers,91172,5,2016
+4411,Automobile dealers,84037,5,2016
+44111,New car dealers,75336,5,2016
+44112,Used car dealers,8701,5,2016
+4413,"Automotive parts, acc., and tire stores",7788,5,2016
+"442,443","Furniture, home furn, electronics, and appliance stores",16342,5,2016
+442,Furniture and home furnishings stores,9139,5,2016
+4421,Furniture stores,4997,5,2016
+4422,Home furnishings stores,4142,5,2016
+44221,Floor covering stores,1751,5,2016
+442299,All other home furnishings stores,2268,5,2016
+443,Electronics and appliance stores,7203,5,2016
+443141,Household appliance stores,1462,5,2016
+443142,Electronics stores,5741,5,2016
+444,Building mat. and garden equip. and supplies dealers,33652,5,2016
+4441,Building mat. and supplies dealers,28033,5,2016
+44412,Paint and wallpaper stores,983,5,2016
+44413,Hardware stores,2268,5,2016
+445,Food and beverage stores,59242,5,2016
+4451,Grocery stores,53053,5,2016
+44511,Supermarkets and other grocery (except convenience) stores,50698,5,2016
+4453,"Beer, wine, and liquor stores",4242,5,2016
+446,Health and personal care stores,26802,5,2016
+44611,Pharmacies and drug stores,22536,5,2016
+447,Gasoline stations,38808,5,2016
+448,Clothing and clothing access. stores,21752,5,2016
+4481,Clothing stores,15763,5,2016
+44811,Men's clothing stores,839,5,2016
+44812,Women's clothing stores,3513,5,2016
+44814,Family clothing stores,8458,5,2016
+44819,Other clothing stores,1341,5,2016
+4482,Shoe stores,2952,5,2016
+44831,Jewelry stores,2768,5,2016
+451,"Sporting goods, hobby, musical instrument, and book stores",6695,5,2016
+45111,Sporting goods stores,3939,5,2016
+45112,"Hobby, toy, and game stores",1243,5,2016
+451211,Book stores,741,5,2016
+452,General merchandise stores,56662,5,2016
+4521,Department stores,12238,5,2016
+452111,Department stores(excl. discount department stores),4228,5,2016
+452112,Discount dept. stores,8010,5,2016
+4529,Other general merchandise stores,44424,5,2016
+45291,Warehouse clubs and superstores,38385,5,2016
+45299,All other gen. merchandise stores,6039,5,2016
+453,Miscellaneous store retailers,10937,5,2016
+4532,"Office supplies, stationery, and gift stores",2528,5,2016
+45321,Office supplies and stationery stores,1026,5,2016
+45322,"Gift, novelty, and souvenir stores",1502,5,2016
+45330,Used merchandise stores,1323,5,2016
+454,Nonstore retailers,43195,5,2016
+4541,Electronic shopping and mail-order houses,37026,5,2016
+45431,Fuel dealers,1707,5,2016
+722,Food services and drinking places,57069,5,2016
+7224,Drinking places,2043,5,2016
+7225,Restaurants and other eating places,49724,5,2016
+722511,Full service restaurants,24915,5,2016
+"722513, 722514, 722515",Limited service eating places,24809,5,2016
+441,Motor vehicle and parts dealers,114228,6,2020
+"44,114,412",Automobile and other motor vehicle dealers,104941,6,2020
+4411,Automobile dealers,93559,6,2020
+44111,New car dealers,81593,6,2020
+44112,Used car dealers,11966,6,2020
+4413,"Automotive parts, acc., and tire stores",9287,6,2020
+"442,443","Furniture, home furn, electronics, and appliance stores",15601,6,2020
+442,Furniture and home furnishings stores,9993,6,2020
+4421,Furniture stores,5730,6,2020
+4422,Home furnishings stores,4263,6,2020
+44221,Floor covering stores,0,6,2020
+442299,All other home furnishings stores,2102,6,2020
+443,Electronics and appliance stores,5608,6,2020
+443141,Household appliance stores,1681,6,2020
+443142,Electronics stores,3927,6,2020
+444,Building mat. and garden equip. and supplies dealers,42092,6,2020
+4441,Building mat. and supplies dealers,36397,6,2020
+44412,Paint and wallpaper stores,1240,6,2020
+44413,Hardware stores,3350,6,2020
+445,Food and beverage stores,71799,6,2020
+4451,Grocery stores,63973,6,2020
+44511,Supermarkets and other grocery (except convenience) stores,61229,6,2020
+4453,"Beer, wine, and liquor stores",5780,6,2020
+446,Health and personal care stores,28279,6,2020
+44611,Pharmacies and drug stores,24655,6,2020
+447,Gasoline stations,36314,6,2020
+448,Clothing and clothing access. stores,16442,6,2020
+4481,Clothing stores,11080,6,2020
+44811,Men's clothing stores,303,6,2020
+44812,Women's clothing stores,2027,6,2020
+44814,Family clothing stores,6955,6,2020
+44819,Other clothing stores,946,6,2020
+4482,Shoe stores,2692,6,2020
+44831,Jewelry stores,2452,6,2020
+451,"Sporting goods, hobby, musical instrument, and book stores",8390,6,2020
+45111,Sporting goods stores,5887,6,2020
+45112,"Hobby, toy, and game stores",1420,6,2020
+451211,Book stores,388,6,2020
+452,General merchandise stores,60501,6,2020
+4521,Department stores,9047,6,2020
+452111,Department stores(excl. discount department stores),1524,6,2020
+452112,Discount dept. stores,7523,6,2020
+4529,Other general merchandise stores,51454,6,2020
+45291,Warehouse clubs and superstores,43615,6,2020
+45299,All other gen. merchandise stores,7839,6,2020
+453,Miscellaneous store retailers,11544,6,2020
+4532,"Office supplies, stationery, and gift stores",1640,6,2020
+45321,Office supplies and stationery stores,780,6,2020
+45322,"Gift, novelty, and souvenir stores",860,6,2020
+45330,Used merchandise stores,1246,6,2020
+454,Nonstore retailers,76015,6,2020
+4541,Electronic shopping and mail-order houses,69954,6,2020
+45431,Fuel dealers,1577,6,2020
+722,Food services and drinking places,51473,6,2020
+7224,Drinking places,0,6,2020
+7225,Restaurants and other eating places,48350,6,2020
+722511,Full service restaurants,0,6,2020
+"722513, 722514, 722515",Limited service eating places,28789,6,2020
+441,Motor vehicle and parts dealers,104650,6,2019
+"44,114,412",Automobile and other motor vehicle dealers,96499,6,2019
+4411,Automobile dealers,88523,6,2019
+44111,New car dealers,78207,6,2019
+44112,Used car dealers,10316,6,2019
+4413,"Automotive parts, acc., and tire stores",8151,6,2019
+"442,443","Furniture, home furn, electronics, and appliance stores",16742,6,2019
+442,Furniture and home furnishings stores,9759,6,2019
+4421,Furniture stores,5335,6,2019
+4422,Home furnishings stores,4424,6,2019
+44221,Floor covering stores,0,6,2019
+442299,All other home furnishings stores,2200,6,2019
+443,Electronics and appliance stores,6983,6,2019
+443141,Household appliance stores,1398,6,2019
+443142,Electronics stores,5585,6,2019
+444,Building mat. and garden equip. and supplies dealers,33517,6,2019
+4441,Building mat. and supplies dealers,29265,6,2019
+44412,Paint and wallpaper stores,1174,6,2019
+44413,Hardware stores,2579,6,2019
+445,Food and beverage stores,64479,6,2019
+4451,Grocery stores,57791,6,2019
+44511,Supermarkets and other grocery (except convenience) stores,54902,6,2019
+4453,"Beer, wine, and liquor stores",4769,6,2019
+446,Health and personal care stores,27642,6,2019
+44611,Pharmacies and drug stores,22692,6,2019
+447,Gasoline stations,44876,6,2019
+448,Clothing and clothing access. stores,21116,6,2019
+4481,Clothing stores,15728,6,2019
+44811,Men's clothing stores,740,6,2019
+44812,Women's clothing stores,3116,6,2019
+44814,Family clothing stores,9009,6,2019
+44819,Other clothing stores,1496,6,2019
+4482,Shoe stores,2796,6,2019
+44831,Jewelry stores,2291,6,2019
+451,"Sporting goods, hobby, musical instrument, and book stores",6671,6,2019
+45111,Sporting goods stores,4165,6,2019
+45112,"Hobby, toy, and game stores",1169,6,2019
+451211,Book stores,613,6,2019
+452,General merchandise stores,58979,6,2019
+4521,Department stores,10605,6,2019
+452111,Department stores(excl. discount department stores),3014,6,2019
+452112,Discount dept. stores,7591,6,2019
+4529,Other general merchandise stores,48374,6,2019
+45291,Warehouse clubs and superstores,41710,6,2019
+45299,All other gen. merchandise stores,6664,6,2019
+453,Miscellaneous store retailers,11183,6,2019
+4532,"Office supplies, stationery, and gift stores",2359,6,2019
+45321,Office supplies and stationery stores,751,6,2019
+45322,"Gift, novelty, and souvenir stores",1608,6,2019
+45330,Used merchandise stores,1415,6,2019
+454,Nonstore retailers,58740,6,2019
+4541,Electronic shopping and mail-order houses,51981,6,2019
+45431,Fuel dealers,1785,6,2019
+722,Food services and drinking places,66674,6,2019
+7224,Drinking places,0,6,2019
+7225,Restaurants and other eating places,58908,6,2019
+722511,Full service restaurants,29112,6,2019
+"722513, 722514, 722515",Limited service eating places,29796,6,2019
+441,Motor vehicle and parts dealers,104879,6,2018
+"44,114,412",Automobile and other motor vehicle dealers,96675,6,2018
+4411,Automobile dealers,88505,6,2018
+44111,New car dealers,78485,6,2018
+44112,Used car dealers,10020,6,2018
+4413,"Automotive parts, acc., and tire stores",8204,6,2018
+"442,443","Furniture, home furn, electronics, and appliance stores",17425,6,2018
+442,Furniture and home furnishings stores,9921,6,2018
+4421,Furniture stores,5409,6,2018
+4422,Home furnishings stores,4512,6,2018
+44221,Floor covering stores,0,6,2018
+442299,All other home furnishings stores,2209,6,2018
+443,Electronics and appliance stores,7504,6,2018
+443141,Household appliance stores,1479,6,2018
+443142,Electronics stores,6025,6,2018
+444,Building mat. and garden equip. and supplies dealers,34966,6,2018
+4441,Building mat. and supplies dealers,30594,6,2018
+44412,Paint and wallpaper stores,1174,6,2018
+44413,Hardware stores,2509,6,2018
+445,Food and beverage stores,62765,6,2018
+4451,Grocery stores,56107,6,2018
+44511,Supermarkets and other grocery (except convenience) stores,53351,6,2018
+4453,"Beer, wine, and liquor stores",4740,6,2018
+446,Health and personal care stores,27655,6,2018
+44611,Pharmacies and drug stores,22659,6,2018
+447,Gasoline stations,46750,6,2018
+448,Clothing and clothing access. stores,21294,6,2018
+4481,Clothing stores,15676,6,2018
+44811,Men's clothing stores,780,6,2018
+44812,Women's clothing stores,3194,6,2018
+44814,Family clothing stores,8767,6,2018
+44819,Other clothing stores,1558,6,2018
+4482,Shoe stores,2893,6,2018
+44831,Jewelry stores,2469,6,2018
+451,"Sporting goods, hobby, musical instrument, and book stores",6822,6,2018
+45111,Sporting goods stores,4151,6,2018
+45112,"Hobby, toy, and game stores",1259,6,2018
+451211,Book stores,647,6,2018
+452,General merchandise stores,58091,6,2018
+4521,Department stores,11166,6,2018
+452111,Department stores(excl. discount department stores),3421,6,2018
+452112,Discount dept. stores,7745,6,2018
+4529,Other general merchandise stores,46925,6,2018
+45291,Warehouse clubs and superstores,40547,6,2018
+45299,All other gen. merchandise stores,6378,6,2018
+453,Miscellaneous store retailers,11197,6,2018
+4532,"Office supplies, stationery, and gift stores",2403,6,2018
+45321,Office supplies and stationery stores,801,6,2018
+45322,"Gift, novelty, and souvenir stores",1602,6,2018
+45330,Used merchandise stores,1415,6,2018
+454,Nonstore retailers,51733,6,2018
+4541,Electronic shopping and mail-order houses,45294,6,2018
+45431,Fuel dealers,1813,6,2018
+722,Food services and drinking places,63529,6,2018
+7224,Drinking places,0,6,2018
+7225,Restaurants and other eating places,56132,6,2018
+722511,Full service restaurants,27818,6,2018
+"722513, 722514, 722515",Limited service eating places,28314,6,2018
+441,Motor vehicle and parts dealers,102593,6,2017
+"44,114,412",Automobile and other motor vehicle dealers,94441,6,2017
+4411,Automobile dealers,86383,6,2017
+44111,New car dealers,76450,6,2017
+44112,Used car dealers,9933,6,2017
+4413,"Automotive parts, acc., and tire stores",8152,6,2017
+"442,443","Furniture, home furn, electronics, and appliance stores",16749,6,2017
+442,Furniture and home furnishings stores,9522,6,2017
+4421,Furniture stores,5084,6,2017
+4422,Home furnishings stores,4438,6,2017
+44221,Floor covering stores,0,6,2017
+442299,All other home furnishings stores,2308,6,2017
+443,Electronics and appliance stores,7227,6,2017
+443141,Household appliance stores,1448,6,2017
+443142,Electronics stores,5779,6,2017
+444,Building mat. and garden equip. and supplies dealers,33437,6,2017
+4441,Building mat. and supplies dealers,28839,6,2017
+44412,Paint and wallpaper stores,1115,6,2017
+44413,Hardware stores,2392,6,2017
+445,Food and beverage stores,60545,6,2017
+4451,Grocery stores,54191,6,2017
+44511,Supermarkets and other grocery (except convenience) stores,51771,6,2017
+4453,"Beer, wine, and liquor stores",4482,6,2017
+446,Health and personal care stores,26848,6,2017
+44611,Pharmacies and drug stores,22345,6,2017
+447,Gasoline stations,40493,6,2017
+448,Clothing and clothing access. stores,20618,6,2017
+4481,Clothing stores,15397,6,2017
+44811,Men's clothing stores,803,6,2017
+44812,Women's clothing stores,3220,6,2017
+44814,Family clothing stores,8388,6,2017
+44819,Other clothing stores,1494,6,2017
+4482,Shoe stores,2765,6,2017
+44831,Jewelry stores,2237,6,2017
+451,"Sporting goods, hobby, musical instrument, and book stores",6716,6,2017
+45111,Sporting goods stores,4108,6,2017
+45112,"Hobby, toy, and game stores",1178,6,2017
+451211,Book stores,685,6,2017
+452,General merchandise stores,56738,6,2017
+4521,Department stores,11587,6,2017
+452111,Department stores(excl. discount department stores),3665,6,2017
+452112,Discount dept. stores,7922,6,2017
+4529,Other general merchandise stores,45151,6,2017
+45291,Warehouse clubs and superstores,38860,6,2017
+45299,All other gen. merchandise stores,6291,6,2017
+453,Miscellaneous store retailers,10517,6,2017
+4532,"Office supplies, stationery, and gift stores",2379,6,2017
+45321,Office supplies and stationery stores,897,6,2017
+45322,"Gift, novelty, and souvenir stores",1482,6,2017
+45330,Used merchandise stores,1324,6,2017
+454,Nonstore retailers,47780,6,2017
+4541,Electronic shopping and mail-order houses,41570,6,2017
+45431,Fuel dealers,1632,6,2017
+722,Food services and drinking places,58695,6,2017
+7224,Drinking places,2098,6,2017
+7225,Restaurants and other eating places,51666,6,2017
+722511,Full service restaurants,25482,6,2017
+"722513, 722514, 722515",Limited service eating places,26184,6,2017
+441,Motor vehicle and parts dealers,98586,6,2016
+"44,114,412",Automobile and other motor vehicle dealers,90426,6,2016
+4411,Automobile dealers,83087,6,2016
+44111,New car dealers,73973,6,2016
+44112,Used car dealers,9114,6,2016
+4413,"Automotive parts, acc., and tire stores",8160,6,2016
+"442,443","Furniture, home furn, electronics, and appliance stores",16618,6,2016
+442,Furniture and home furnishings stores,9252,6,2016
+4421,Furniture stores,5029,6,2016
+4422,Home furnishings stores,4223,6,2016
+44221,Floor covering stores,1882,6,2016
+442299,All other home furnishings stores,2212,6,2016
+443,Electronics and appliance stores,7366,6,2016
+443141,Household appliance stores,1544,6,2016
+443142,Electronics stores,5822,6,2016
+444,Building mat. and garden equip. and supplies dealers,33120,6,2016
+4441,Building mat. and supplies dealers,28214,6,2016
+44412,Paint and wallpaper stores,1091,6,2016
+44413,Hardware stores,2211,6,2016
+445,Food and beverage stores,58521,6,2016
+4451,Grocery stores,52332,6,2016
+44511,Supermarkets and other grocery (except convenience) stores,49936,6,2016
+4453,"Beer, wine, and liquor stores",4307,6,2016
+446,Health and personal care stores,26623,6,2016
+44611,Pharmacies and drug stores,22135,6,2016
+447,Gasoline stations,40062,6,2016
+448,Clothing and clothing access. stores,20251,6,2016
+4481,Clothing stores,15067,6,2016
+44811,Men's clothing stores,783,6,2016
+44812,Women's clothing stores,3156,6,2016
+44814,Family clothing stores,8181,6,2016
+44819,Other clothing stores,1424,6,2016
+4482,Shoe stores,2779,6,2016
+44831,Jewelry stores,2189,6,2016
+451,"Sporting goods, hobby, musical instrument, and book stores",7214,6,2016
+45111,Sporting goods stores,4631,6,2016
+45112,"Hobby, toy, and game stores",1188,6,2016
+451211,Book stores,677,6,2016
+452,General merchandise stores,55680,6,2016
+4521,Department stores,12296,6,2016
+452111,Department stores(excl. discount department stores),4085,6,2016
+452112,Discount dept. stores,8211,6,2016
+4529,Other general merchandise stores,43384,6,2016
+45291,Warehouse clubs and superstores,37433,6,2016
+45299,All other gen. merchandise stores,5951,6,2016
+453,Miscellaneous store retailers,10451,6,2016
+4532,"Office supplies, stationery, and gift stores",2399,6,2016
+45321,Office supplies and stationery stores,949,6,2016
+45322,"Gift, novelty, and souvenir stores",1450,6,2016
+45330,Used merchandise stores,1279,6,2016
+454,Nonstore retailers,42919,6,2016
+4541,Electronic shopping and mail-order houses,36914,6,2016
+45431,Fuel dealers,1493,6,2016
+722,Food services and drinking places,54676,6,2016
+7224,Drinking places,1905,6,2016
+7225,Restaurants and other eating places,47923,6,2016
+722511,Full service restaurants,23574,6,2016
+"722513, 722514, 722515",Limited service eating places,24349,6,2016
+441,Motor vehicle and parts dealers,116233,7,2020
+"44,114,412",Automobile and other motor vehicle dealers,107082,7,2020
+4411,Automobile dealers,97104,7,2020
+44111,New car dealers,84691,7,2020
+44112,Used car dealers,12413,7,2020
+4413,"Automotive parts, acc., and tire stores",9151,7,2020
+"442,443","Furniture, home furn, electronics, and appliance stores",17180,7,2020
+442,Furniture and home furnishings stores,10625,7,2020
+4421,Furniture stores,5957,7,2020
+4422,Home furnishings stores,4668,7,2020
+44221,Floor covering stores,0,7,2020
+442299,All other home furnishings stores,2440,7,2020
+443,Electronics and appliance stores,6555,7,2020
+443141,Household appliance stores,1731,7,2020
+443142,Electronics stores,4824,7,2020
+444,Building mat. and garden equip. and supplies dealers,39430,7,2020
+4441,Building mat. and supplies dealers,34870,7,2020
+44412,Paint and wallpaper stores,1271,7,2020
+44413,Hardware stores,3028,7,2020
+445,Food and beverage stores,75085,7,2020
+4451,Grocery stores,66892,7,2020
+44511,Supermarkets and other grocery (except convenience) stores,63980,7,2020
+4453,"Beer, wine, and liquor stores",6106,7,2020
+446,Health and personal care stores,29573,7,2020
+44611,Pharmacies and drug stores,25460,7,2020
+447,Gasoline stations,38876,7,2020
+448,Clothing and clothing access. stores,17779,7,2020
+4481,Clothing stores,12098,7,2020
+44811,Men's clothing stores,405,7,2020
+44812,Women's clothing stores,2373,7,2020
+44814,Family clothing stores,7077,7,2020
+44819,Other clothing stores,1156,7,2020
+4482,Shoe stores,2722,7,2020
+44831,Jewelry stores,2679,7,2020
+451,"Sporting goods, hobby, musical instrument, and book stores",8011,7,2020
+45111,Sporting goods stores,5435,7,2020
+45112,"Hobby, toy, and game stores",1409,7,2020
+451211,Book stores,437,7,2020
+452,General merchandise stores,61674,7,2020
+4521,Department stores,9384,7,2020
+452111,Department stores(excl. discount department stores),1591,7,2020
+452112,Discount dept. stores,7793,7,2020
+4529,Other general merchandise stores,52290,7,2020
+45291,Warehouse clubs and superstores,44706,7,2020
+45299,All other gen. merchandise stores,7584,7,2020
+453,Miscellaneous store retailers,11992,7,2020
+4532,"Office supplies, stationery, and gift stores",2020,7,2020
+45321,Office supplies and stationery stores,869,7,2020
+45322,"Gift, novelty, and souvenir stores",1151,7,2020
+45330,Used merchandise stores,1300,7,2020
+454,Nonstore retailers,79072,7,2020
+4541,Electronic shopping and mail-order houses,72123,7,2020
+45431,Fuel dealers,1603,7,2020
+722,Food services and drinking places,54511,7,2020
+7224,Drinking places,0,7,2020
+7225,Restaurants and other eating places,51178,7,2020
+722511,Full service restaurants,0,7,2020
+"722513, 722514, 722515",Limited service eating places,30214,7,2020
+441,Motor vehicle and parts dealers,109183,7,2019
+"44,114,412",Automobile and other motor vehicle dealers,100703,7,2019
+4411,Automobile dealers,93041,7,2019
+44111,New car dealers,82550,7,2019
+44112,Used car dealers,10491,7,2019
+4413,"Automotive parts, acc., and tire stores",8480,7,2019
+"442,443","Furniture, home furn, electronics, and appliance stores",17358,7,2019
+442,Furniture and home furnishings stores,10188,7,2019
+4421,Furniture stores,5496,7,2019
+4422,Home furnishings stores,4692,7,2019
+44221,Floor covering stores,0,7,2019
+442299,All other home furnishings stores,2454,7,2019
+443,Electronics and appliance stores,7170,7,2019
+443141,Household appliance stores,1523,7,2019
+443142,Electronics stores,5647,7,2019
+444,Building mat. and garden equip. and supplies dealers,33691,7,2019
+4441,Building mat. and supplies dealers,29938,7,2019
+44412,Paint and wallpaper stores,1248,7,2019
+44413,Hardware stores,2524,7,2019
+445,Food and beverage stores,66428,7,2019
+4451,Grocery stores,59460,7,2019
+44511,Supermarkets and other grocery (except convenience) stores,56476,7,2019
+4453,"Beer, wine, and liquor stores",4993,7,2019
+446,Health and personal care stores,28142,7,2019
+44611,Pharmacies and drug stores,23437,7,2019
+447,Gasoline stations,46392,7,2019
+448,Clothing and clothing access. stores,21742,7,2019
+4481,Clothing stores,15971,7,2019
+44811,Men's clothing stores,669,7,2019
+44812,Women's clothing stores,3104,7,2019
+44814,Family clothing stores,9246,7,2019
+44819,Other clothing stores,1472,7,2019
+4482,Shoe stores,3093,7,2019
+44831,Jewelry stores,2405,7,2019
+451,"Sporting goods, hobby, musical instrument, and book stores",6636,7,2019
+45111,Sporting goods stores,4133,7,2019
+45112,"Hobby, toy, and game stores",1178,7,2019
+451211,Book stores,591,7,2019
+452,General merchandise stores,58759,7,2019
+4521,Department stores,10610,7,2019
+452111,Department stores(excl. discount department stores),2940,7,2019
+452112,Discount dept. stores,7670,7,2019
+4529,Other general merchandise stores,48149,7,2019
+45291,Warehouse clubs and superstores,41581,7,2019
+45299,All other gen. merchandise stores,6568,7,2019
+453,Miscellaneous store retailers,11234,7,2019
+4532,"Office supplies, stationery, and gift stores",2595,7,2019
+45321,Office supplies and stationery stores,891,7,2019
+45322,"Gift, novelty, and souvenir stores",1704,7,2019
+45330,Used merchandise stores,1456,7,2019
+454,Nonstore retailers,62532,7,2019
+4541,Electronic shopping and mail-order houses,55604,7,2019
+45431,Fuel dealers,1857,7,2019
+722,Food services and drinking places,66613,7,2019
+7224,Drinking places,0,7,2019
+7225,Restaurants and other eating places,59300,7,2019
+722511,Full service restaurants,29069,7,2019
+"722513, 722514, 722515",Limited service eating places,30231,7,2019
+441,Motor vehicle and parts dealers,103830,7,2018
+"44,114,412",Automobile and other motor vehicle dealers,95619,7,2018
+4411,Automobile dealers,88463,7,2018
+44111,New car dealers,78428,7,2018
+44112,Used car dealers,10035,7,2018
+4413,"Automotive parts, acc., and tire stores",8211,7,2018
+"442,443","Furniture, home furn, electronics, and appliance stores",17294,7,2018
+442,Furniture and home furnishings stores,9916,7,2018
+4421,Furniture stores,5287,7,2018
+4422,Home furnishings stores,4629,7,2018
+44221,Floor covering stores,0,7,2018
+442299,All other home furnishings stores,2354,7,2018
+443,Electronics and appliance stores,7378,7,2018
+443141,Household appliance stores,1460,7,2018
+443142,Electronics stores,5918,7,2018
+444,Building mat. and garden equip. and supplies dealers,33133,7,2018
+4441,Building mat. and supplies dealers,29673,7,2018
+44412,Paint and wallpaper stores,1150,7,2018
+44413,Hardware stores,2350,7,2018
+445,Food and beverage stores,63399,7,2018
+4451,Grocery stores,56720,7,2018
+44511,Supermarkets and other grocery (except convenience) stores,53962,7,2018
+4453,"Beer, wine, and liquor stores",4761,7,2018
+446,Health and personal care stores,27467,7,2018
+44611,Pharmacies and drug stores,22881,7,2018
+447,Gasoline stations,47089,7,2018
+448,Clothing and clothing access. stores,21733,7,2018
+4481,Clothing stores,15944,7,2018
+44811,Men's clothing stores,676,7,2018
+44812,Women's clothing stores,3109,7,2018
+44814,Family clothing stores,9142,7,2018
+44819,Other clothing stores,1606,7,2018
+4482,Shoe stores,3255,7,2018
+44831,Jewelry stores,2286,7,2018
+451,"Sporting goods, hobby, musical instrument, and book stores",6366,7,2018
+45111,Sporting goods stores,3928,7,2018
+45112,"Hobby, toy, and game stores",1046,7,2018
+451211,Book stores,620,7,2018
+452,General merchandise stores,57383,7,2018
+4521,Department stores,10979,7,2018
+452111,Department stores(excl. discount department stores),3273,7,2018
+452112,Discount dept. stores,7706,7,2018
+4529,Other general merchandise stores,46404,7,2018
+45291,Warehouse clubs and superstores,40132,7,2018
+45299,All other gen. merchandise stores,6272,7,2018
+453,Miscellaneous store retailers,10531,7,2018
+4532,"Office supplies, stationery, and gift stores",2596,7,2018
+45321,Office supplies and stationery stores,923,7,2018
+45322,"Gift, novelty, and souvenir stores",1673,7,2018
+45330,Used merchandise stores,1336,7,2018
+454,Nonstore retailers,53542,7,2018
+4541,Electronic shopping and mail-order houses,47154,7,2018
+45431,Fuel dealers,1886,7,2018
+722,Food services and drinking places,63442,7,2018
+7224,Drinking places,0,7,2018
+7225,Restaurants and other eating places,56429,7,2018
+722511,Full service restaurants,27696,7,2018
+"722513, 722514, 722515",Limited service eating places,28733,7,2018
+441,Motor vehicle and parts dealers,102228,7,2017
+"44,114,412",Automobile and other motor vehicle dealers,94321,7,2017
+4411,Automobile dealers,87356,7,2017
+44111,New car dealers,77677,7,2017
+44112,Used car dealers,9679,7,2017
+4413,"Automotive parts, acc., and tire stores",7907,7,2017
+"442,443","Furniture, home furn, electronics, and appliance stores",16467,7,2017
+442,Furniture and home furnishings stores,9396,7,2017
+4421,Furniture stores,5104,7,2017
+4422,Home furnishings stores,4292,7,2017
+44221,Floor covering stores,0,7,2017
+442299,All other home furnishings stores,2319,7,2017
+443,Electronics and appliance stores,7071,7,2017
+443141,Household appliance stores,1396,7,2017
+443142,Electronics stores,5675,7,2017
+444,Building mat. and garden equip. and supplies dealers,30060,7,2017
+4441,Building mat. and supplies dealers,26497,7,2017
+44412,Paint and wallpaper stores,1044,7,2017
+44413,Hardware stores,2194,7,2017
+445,Food and beverage stores,61611,7,2017
+4451,Grocery stores,55159,7,2017
+44511,Supermarkets and other grocery (except convenience) stores,52679,7,2017
+4453,"Beer, wine, and liquor stores",4598,7,2017
+446,Health and personal care stores,25966,7,2017
+44611,Pharmacies and drug stores,21610,7,2017
+447,Gasoline stations,40211,7,2017
+448,Clothing and clothing access. stores,20795,7,2017
+4481,Clothing stores,15368,7,2017
+44811,Men's clothing stores,688,7,2017
+44812,Women's clothing stores,3083,7,2017
+44814,Family clothing stores,8711,7,2017
+44819,Other clothing stores,1385,7,2017
+4482,Shoe stores,2976,7,2017
+44831,Jewelry stores,2204,7,2017
+451,"Sporting goods, hobby, musical instrument, and book stores",6499,7,2017
+45111,Sporting goods stores,3916,7,2017
+45112,"Hobby, toy, and game stores",1193,7,2017
+451211,Book stores,647,7,2017
+452,General merchandise stores,56386,7,2017
+4521,Department stores,11332,7,2017
+452111,Department stores(excl. discount department stores),3516,7,2017
+452112,Discount dept. stores,7816,7,2017
+4529,Other general merchandise stores,45054,7,2017
+45291,Warehouse clubs and superstores,38973,7,2017
+45299,All other gen. merchandise stores,6081,7,2017
+453,Miscellaneous store retailers,10265,7,2017
+4532,"Office supplies, stationery, and gift stores",2459,7,2017
+45321,Office supplies and stationery stores,926,7,2017
+45322,"Gift, novelty, and souvenir stores",1533,7,2017
+45330,Used merchandise stores,1380,7,2017
+454,Nonstore retailers,46412,7,2017
+4541,Electronic shopping and mail-order houses,40756,7,2017
+45431,Fuel dealers,1472,7,2017
+722,Food services and drinking places,58474,7,2017
+7224,Drinking places,2157,7,2017
+7225,Restaurants and other eating places,51817,7,2017
+722511,Full service restaurants,25360,7,2017
+"722513, 722514, 722515",Limited service eating places,26457,7,2017
+441,Motor vehicle and parts dealers,99893,7,2016
+"44,114,412",Automobile and other motor vehicle dealers,92147,7,2016
+4411,Automobile dealers,85623,7,2016
+44111,New car dealers,76669,7,2016
+44112,Used car dealers,8954,7,2016
+4413,"Automotive parts, acc., and tire stores",7746,7,2016
+"442,443","Furniture, home furn, electronics, and appliance stores",16726,7,2016
+442,Furniture and home furnishings stores,9313,7,2016
+4421,Furniture stores,5028,7,2016
+4422,Home furnishings stores,4285,7,2016
+44221,Floor covering stores,1803,7,2016
+442299,All other home furnishings stores,2348,7,2016
+443,Electronics and appliance stores,7413,7,2016
+443141,Household appliance stores,1499,7,2016
+443142,Electronics stores,5914,7,2016
+444,Building mat. and garden equip. and supplies dealers,29112,7,2016
+4441,Building mat. and supplies dealers,25917,7,2016
+44412,Paint and wallpaper stores,1000,7,2016
+44413,Hardware stores,2067,7,2016
+445,Food and beverage stores,59851,7,2016
+4451,Grocery stores,53382,7,2016
+44511,Supermarkets and other grocery (except convenience) stores,50825,7,2016
+4453,"Beer, wine, and liquor stores",4572,7,2016
+446,Health and personal care stores,25749,7,2016
+44611,Pharmacies and drug stores,21595,7,2016
+447,Gasoline stations,39752,7,2016
+448,Clothing and clothing access. stores,20759,7,2016
+4481,Clothing stores,15367,7,2016
+44811,Men's clothing stores,686,7,2016
+44812,Women's clothing stores,3058,7,2016
+44814,Family clothing stores,8666,7,2016
+44819,Other clothing stores,1345,7,2016
+4482,Shoe stores,3073,7,2016
+44831,Jewelry stores,2088,7,2016
+451,"Sporting goods, hobby, musical instrument, and book stores",6913,7,2016
+45111,Sporting goods stores,4314,7,2016
+45112,"Hobby, toy, and game stores",1239,7,2016
+451211,Book stores,652,7,2016
+452,General merchandise stores,55976,7,2016
+4521,Department stores,11850,7,2016
+452111,Department stores(excl. discount department stores),3851,7,2016
+452112,Discount dept. stores,7999,7,2016
+4529,Other general merchandise stores,44126,7,2016
+45291,Warehouse clubs and superstores,38312,7,2016
+45299,All other gen. merchandise stores,5814,7,2016
+453,Miscellaneous store retailers,10055,7,2016
+4532,"Office supplies, stationery, and gift stores",2525,7,2016
+45321,Office supplies and stationery stores,991,7,2016
+45322,"Gift, novelty, and souvenir stores",1534,7,2016
+45330,Used merchandise stores,1365,7,2016
+454,Nonstore retailers,41149,7,2016
+4541,Electronic shopping and mail-order houses,35762,7,2016
+45431,Fuel dealers,1366,7,2016
+722,Food services and drinking places,56069,7,2016
+7224,Drinking places,2060,7,2016
+7225,Restaurants and other eating places,49428,7,2016
+722511,Full service restaurants,24313,7,2016
+"722513, 722514, 722515",Limited service eating places,25115,7,2016
+441,Motor vehicle and parts dealers,488949,8,2020
+"44,114,412",Automobile and other motor vehicle dealers,373021,8,2020
+4411,Automobile dealers,109556,8,2020
+44111,New car dealers,115928,8,2020
+44112,Used car dealers,106956,8,2020
+4413,"Automotive parts, acc., and tire stores",98206,8,2020
+"442,443","Furniture, home furn, electronics, and appliance stores",86015,8,2020
+442,Furniture and home furnishings stores,12191,8,2020
+4421,Furniture stores,8972,8,2020
+4422,Home furnishings stores,17856,8,2020
+44221,Floor covering stores,11017,8,2020
+442299,All other home furnishings stores,5847,8,2020
+443,Electronics and appliance stores,5170,8,2020
+443141,Household appliance stores,0,8,2020
+443142,Electronics stores,2647,8,2020
+444,Building mat. and garden equip. and supplies dealers,6839,8,2020
+4441,Building mat. and supplies dealers,1747,8,2020
+44412,Paint and wallpaper stores,5092,8,2020
+44413,Hardware stores,36664,8,2020
+445,Food and beverage stores,32612,8,2020
+4451,Grocery stores,1216,8,2020
+44511,Supermarkets and other grocery (except convenience) stores,2891,8,2020
+4453,"Beer, wine, and liquor stores",72353,8,2020
+446,Health and personal care stores,64500,8,2020
+44611,Pharmacies and drug stores,61571,8,2020
+447,Gasoline stations,5813,8,2020
+448,Clothing and clothing access. stores,28918,8,2020
+4481,Clothing stores,24757,8,2020
+44811,Men's clothing stores,38730,8,2020
+44812,Women's clothing stores,18968,8,2020
+44814,Family clothing stores,12933,8,2020
+44819,Other clothing stores,379,8,2020
+4482,Shoe stores,2386,8,2020
+44831,Jewelry stores,7768,8,2020
+451,"Sporting goods, hobby, musical instrument, and book stores",1158,8,2020
+45111,Sporting goods stores,2822,8,2020
+45112,"Hobby, toy, and game stores",2877,8,2020
+451211,Book stores,8218,8,2020
+452,General merchandise stores,5163,8,2020
+4521,Department stores,1508,8,2020
+452111,Department stores(excl. discount department stores),770,8,2020
+452112,Discount dept. stores,62304,8,2020
+4529,Other general merchandise stores,9879,8,2020
+45291,Warehouse clubs and superstores,1739,8,2020
+45299,All other gen. merchandise stores,8140,8,2020
+453,Miscellaneous store retailers,52425,8,2020
+4532,"Office supplies, stationery, and gift stores",45080,8,2020
+45321,Office supplies and stationery stores,7345,8,2020
+45322,"Gift, novelty, and souvenir stores",11842,8,2020
+45330,Used merchandise stores,2210,8,2020
+454,Nonstore retailers,1105,8,2020
+4541,Electronic shopping and mail-order houses,1105,8,2020
+45431,Fuel dealers,1491,8,2020
+722,Food services and drinking places,77168,8,2020
+7224,Drinking places,70505,8,2020
+7225,Restaurants and other eating places,1630,8,2020
+722511,Full service restaurants,56358,8,2020
+"722513, 722514, 722515",Limited service eating places,0,8,2020
+441,Motor vehicle and parts dealers,358891,8,2019
+"44,114,412",Automobile and other motor vehicle dealers,114131,8,2019
+4411,Automobile dealers,114591,8,2019
+44111,New car dealers,105884,8,2019
+44112,Used car dealers,98738,8,2019
+4413,"Automotive parts, acc., and tire stores",88148,8,2019
+"442,443","Furniture, home furn, electronics, and appliance stores",10590,8,2019
+442,Furniture and home furnishings stores,8707,8,2019
+4421,Furniture stores,18135,8,2019
+4422,Home furnishings stores,10616,8,2019
+44221,Floor covering stores,5705,8,2019
+442299,All other home furnishings stores,4911,8,2019
+443,Electronics and appliance stores,0,8,2019
+443141,Household appliance stores,2577,8,2019
+443142,Electronics stores,7519,8,2019
+444,Building mat. and garden equip. and supplies dealers,1467,8,2019
+4441,Building mat. and supplies dealers,6052,8,2019
+44412,Paint and wallpaper stores,32375,8,2019
+44413,Hardware stores,28915,8,2019
+445,Food and beverage stores,1257,8,2019
+4451,Grocery stores,2525,8,2019
+44511,Supermarkets and other grocery (except convenience) stores,66937,8,2019
+4453,"Beer, wine, and liquor stores",59954,8,2019
+446,Health and personal care stores,56957,8,2019
+44611,Pharmacies and drug stores,5017,8,2019
+447,Gasoline stations,28528,8,2019
+448,Clothing and clothing access. stores,23562,8,2019
+4481,Clothing stores,45949,8,2019
+44811,Men's clothing stores,23829,8,2019
+44812,Women's clothing stores,17028,8,2019
+44814,Family clothing stores,714,8,2019
+44819,Other clothing stores,3169,8,2019
+4482,Shoe stores,10034,8,2019
+44831,Jewelry stores,1496,8,2019
+451,"Sporting goods, hobby, musical instrument, and book stores",3988,8,2019
+45111,Sporting goods stores,2519,8,2019
+45112,"Hobby, toy, and game stores",7608,8,2019
+451211,Book stores,4368,8,2019
+452,General merchandise stores,1269,8,2019
+4521,Department stores,1124,8,2019
+452111,Department stores(excl. discount department stores),61777,8,2019
+452112,Discount dept. stores,11542,8,2019
+4529,Other general merchandise stores,3054,8,2019
+45291,Warehouse clubs and superstores,8488,8,2019
+45299,All other gen. merchandise stores,50235,8,2019
+453,Miscellaneous store retailers,43575,8,2019
+4532,"Office supplies, stationery, and gift stores",6660,8,2019
+45321,Office supplies and stationery stores,11689,8,2019
+45322,"Gift, novelty, and souvenir stores",2782,8,2019
+45330,Used merchandise stores,1260,8,2019
+454,Nonstore retailers,1522,8,2019
+4541,Electronic shopping and mail-order houses,1632,8,2019
+45431,Fuel dealers,62064,8,2019
+722,Food services and drinking places,54963,8,2019
+7224,Drinking places,1954,8,2019
+7225,Restaurants and other eating places,68469,8,2019
+722511,Full service restaurants,0,8,2019
+"722513, 722514, 722515",Limited service eating places,59998,8,2019
+441,Motor vehicle and parts dealers,347649,8,2018
+"44,114,412",Automobile and other motor vehicle dealers,111811,8,2018
+4411,Automobile dealers,108381,8,2018
+44111,New car dealers,99859,8,2018
+44112,Used car dealers,92692,8,2018
+4413,"Automotive parts, acc., and tire stores",82340,8,2018
+"442,443","Furniture, home furn, electronics, and appliance stores",10352,8,2018
+442,Furniture and home furnishings stores,8522,8,2018
+4421,Furniture stores,18260,8,2018
+4422,Home furnishings stores,10399,8,2018
+44221,Floor covering stores,5534,8,2018
+442299,All other home furnishings stores,4865,8,2018
+443,Electronics and appliance stores,0,8,2018
+443141,Household appliance stores,2531,8,2018
+443142,Electronics stores,7861,8,2018
+444,Building mat. and garden equip. and supplies dealers,1514,8,2018
+4441,Building mat. and supplies dealers,6347,8,2018
+44412,Paint and wallpaper stores,32075,8,2018
+44413,Hardware stores,28644,8,2018
+445,Food and beverage stores,1197,8,2018
+4451,Grocery stores,2364,8,2018
+44511,Supermarkets and other grocery (except convenience) stores,63628,8,2018
+4453,"Beer, wine, and liquor stores",57015,8,2018
+446,Health and personal care stores,54230,8,2018
+44611,Pharmacies and drug stores,4697,8,2018
+447,Gasoline stations,28904,8,2018
+448,Clothing and clothing access. stores,23994,8,2018
+4481,Clothing stores,47873,8,2018
+44811,Men's clothing stores,23121,8,2018
+44812,Women's clothing stores,16608,8,2018
+44814,Family clothing stores,721,8,2018
+44819,Other clothing stores,3270,8,2018
+4482,Shoe stores,9501,8,2018
+44831,Jewelry stores,1610,8,2018
+451,"Sporting goods, hobby, musical instrument, and book stores",3898,8,2018
+45111,Sporting goods stores,2371,8,2018
+45112,"Hobby, toy, and game stores",7361,8,2018
+451211,Book stores,4145,8,2018
+452,General merchandise stores,1100,8,2018
+4521,Department stores,1247,8,2018
+452111,Department stores(excl. discount department stores),60099,8,2018
+452112,Discount dept. stores,12083,8,2018
+4529,Other general merchandise stores,3423,8,2018
+45291,Warehouse clubs and superstores,8660,8,2018
+45299,All other gen. merchandise stores,48016,8,2018
+453,Miscellaneous store retailers,41593,8,2018
+4532,"Office supplies, stationery, and gift stores",6423,8,2018
+45321,Office supplies and stationery stores,11168,8,2018
+45322,"Gift, novelty, and souvenir stores",2970,8,2018
+45330,Used merchandise stores,1355,8,2018
+454,Nonstore retailers,1615,8,2018
+4541,Electronic shopping and mail-order houses,1491,8,2018
+45431,Fuel dealers,55160,8,2018
+722,Food services and drinking places,48469,8,2018
+7224,Drinking places,2043,8,2018
+7225,Restaurants and other eating places,64514,8,2018
+722511,Full service restaurants,0,8,2018
+"722513, 722514, 722515",Limited service eating places,56674,8,2018
+441,Motor vehicle and parts dealers,327024,8,2017
+"44,114,412",Automobile and other motor vehicle dealers,108670,8,2017
+4411,Automobile dealers,104798,8,2017
+44111,New car dealers,96524,8,2017
+44112,Used car dealers,89966,8,2017
+4413,"Automotive parts, acc., and tire stores",80177,8,2017
+"442,443","Furniture, home furn, electronics, and appliance stores",9789,8,2017
+442,Furniture and home furnishings stores,8274,8,2017
+4421,Furniture stores,17501,8,2017
+4422,Home furnishings stores,10033,8,2017
+44221,Floor covering stores,5229,8,2017
+442299,All other home furnishings stores,4804,8,2017
+443,Electronics and appliance stores,0,8,2017
+443141,Household appliance stores,2564,8,2017
+443142,Electronics stores,7468,8,2017
+444,Building mat. and garden equip. and supplies dealers,1387,8,2017
+4441,Building mat. and supplies dealers,6081,8,2017
+44412,Paint and wallpaper stores,30304,8,2017
+44413,Hardware stores,27031,8,2017
+445,Food and beverage stores,1124,8,2017
+4451,Grocery stores,2248,8,2017
+44511,Supermarkets and other grocery (except convenience) stores,61414,8,2017
+4453,"Beer, wine, and liquor stores",55083,8,2017
+446,Health and personal care stores,52628,8,2017
+44611,Pharmacies and drug stores,4452,8,2017
+447,Gasoline stations,27609,8,2017
+448,Clothing and clothing access. stores,22820,8,2017
+4481,Clothing stores,41634,8,2017
+44811,Men's clothing stores,22775,8,2017
+44812,Women's clothing stores,16356,8,2017
+44814,Family clothing stores,719,8,2017
+44819,Other clothing stores,3173,8,2017
+4482,Shoe stores,9125,8,2017
+44831,Jewelry stores,1576,8,2017
+451,"Sporting goods, hobby, musical instrument, and book stores",3925,8,2017
+45111,Sporting goods stores,2263,8,2017
+45112,"Hobby, toy, and game stores",7639,8,2017
+451211,Book stores,4225,8,2017
+452,General merchandise stores,1243,8,2017
+4521,Department stores,1370,8,2017
+452111,Department stores(excl. discount department stores),57880,8,2017
+452112,Discount dept. stores,12170,8,2017
+4529,Other general merchandise stores,3608,8,2017
+45291,Warehouse clubs and superstores,8562,8,2017
+45299,All other gen. merchandise stores,45710,8,2017
+453,Miscellaneous store retailers,39541,8,2017
+4532,"Office supplies, stationery, and gift stores",6169,8,2017
+45321,Office supplies and stationery stores,10750,8,2017
+45322,"Gift, novelty, and souvenir stores",2875,8,2017
+45330,Used merchandise stores,1390,8,2017
+454,Nonstore retailers,1485,8,2017
+4541,Electronic shopping and mail-order houses,1455,8,2017
+45431,Fuel dealers,49518,8,2017
+722,Food services and drinking places,43216,8,2017
+7224,Drinking places,1707,8,2017
+7225,Restaurants and other eating places,58502,8,2017
+722511,Full service restaurants,2104,8,2017
+"722513, 722514, 722515",Limited service eating places,51564,8,2017
+441,Motor vehicle and parts dealers,312136,8,2016
+"44,114,412",Automobile and other motor vehicle dealers,107380,8,2016
+4411,Automobile dealers,104313,8,2016
+44111,New car dealers,96100,8,2016
+44112,Used car dealers,89924,8,2016
+4413,"Automotive parts, acc., and tire stores",80417,8,2016
+"442,443","Furniture, home furn, electronics, and appliance stores",9507,8,2016
+442,Furniture and home furnishings stores,8213,8,2016
+4421,Furniture stores,17560,8,2016
+4422,Home furnishings stores,9706,8,2016
+44221,Floor covering stores,5135,8,2016
+442299,All other home furnishings stores,4571,8,2016
+443,Electronics and appliance stores,1936,8,2016
+443141,Household appliance stores,2513,8,2016
+443142,Electronics stores,7854,8,2016
+444,Building mat. and garden equip. and supplies dealers,1506,8,2016
+4441,Building mat. and supplies dealers,6348,8,2016
+44412,Paint and wallpaper stores,28866,8,2016
+44413,Hardware stores,25904,8,2016
+445,Food and beverage stores,1066,8,2016
+4451,Grocery stores,2097,8,2016
+44511,Supermarkets and other grocery (except convenience) stores,58627,8,2016
+4453,"Beer, wine, and liquor stores",52474,8,2016
+446,Health and personal care stores,50021,8,2016
+44611,Pharmacies and drug stores,4307,8,2016
+447,Gasoline stations,27014,8,2016
+448,Clothing and clothing access. stores,22392,8,2016
+4481,Clothing stores,38755,8,2016
+44811,Men's clothing stores,22479,8,2016
+44812,Women's clothing stores,16179,8,2016
+44814,Family clothing stores,729,8,2016
+44819,Other clothing stores,3298,8,2016
+4482,Shoe stores,8796,8,2016
+44831,Jewelry stores,1575,8,2016
+451,"Sporting goods, hobby, musical instrument, and book stores",3898,8,2016
+45111,Sporting goods stores,2181,8,2016
+45112,"Hobby, toy, and game stores",7792,8,2016
+451211,Book stores,4302,8,2016
+452,General merchandise stores,1239,8,2016
+4521,Department stores,1496,8,2016
+452111,Department stores(excl. discount department stores),56578,8,2016
+452112,Discount dept. stores,12735,8,2016
+4529,Other general merchandise stores,3920,8,2016
+45291,Warehouse clubs and superstores,8815,8,2016
+45299,All other gen. merchandise stores,43843,8,2016
+453,Miscellaneous store retailers,38096,8,2016
+4532,"Office supplies, stationery, and gift stores",5747,8,2016
+45321,Office supplies and stationery stores,10404,8,2016
+45322,"Gift, novelty, and souvenir stores",2971,8,2016
+45330,Used merchandise stores,1493,8,2016
+454,Nonstore retailers,1478,8,2016
+4541,Electronic shopping and mail-order houses,1413,8,2016
+45431,Fuel dealers,44061,8,2016
+722,Food services and drinking places,38405,8,2016
+7224,Drinking places,1502,8,2016
+7225,Restaurants and other eating places,55241,8,2016
+722511,Full service restaurants,1999,8,2016
+"722513, 722514, 722515",Limited service eating places,48527,8,2016
+441,Motor vehicle and parts dealers,476247,9,2020
+"44,114,412",Automobile and other motor vehicle dealers,363189,9,2020
+4411,Automobile dealers,104834,9,2020
+44111,New car dealers,113058,9,2020
+44112,Used car dealers,104451,9,2020
+4413,"Automotive parts, acc., and tire stores",96980,9,2020
+"442,443","Furniture, home furn, electronics, and appliance stores",85909,9,2020
+442,Furniture and home furnishings stores,11071,9,2020
+4421,Furniture stores,8607,9,2020
+4422,Home furnishings stores,17530,9,2020
+44221,Floor covering stores,11071,9,2020
+442299,All other home furnishings stores,6112,9,2020
+443,Electronics and appliance stores,4959,9,2020
+443141,Household appliance stores,0,9,2020
+443142,Electronics stores,2506,9,2020
+444,Building mat. and garden equip. and supplies dealers,6459,9,2020
+4441,Building mat. and supplies dealers,1665,9,2020
+44412,Paint and wallpaper stores,4794,9,2020
+44413,Hardware stores,36930,9,2020
+445,Food and beverage stores,32647,9,2020
+4451,Grocery stores,1225,9,2020
+44511,Supermarkets and other grocery (except convenience) stores,2760,9,2020
+4453,"Beer, wine, and liquor stores",69741,9,2020
+446,Health and personal care stores,62100,9,2020
+44611,Pharmacies and drug stores,59353,9,2020
+447,Gasoline stations,5582,9,2020
+448,Clothing and clothing access. stores,29462,9,2020
+4481,Clothing stores,25237,9,2020
+44811,Men's clothing stores,37231,9,2020
+44812,Women's clothing stores,18790,9,2020
+44814,Family clothing stores,12912,9,2020
+44819,Other clothing stores,401,9,2020
+4482,Shoe stores,2494,9,2020
+44831,Jewelry stores,7561,9,2020
+451,"Sporting goods, hobby, musical instrument, and book stores",1150,9,2020
+45111,Sporting goods stores,2643,9,2020
+45112,"Hobby, toy, and game stores",2882,9,2020
+451211,Book stores,7794,9,2020
+452,General merchandise stores,4803,9,2020
+4521,Department stores,1582,9,2020
+452111,Department stores(excl. discount department stores),620,9,2020
+452112,Discount dept. stores,58567,9,2020
+4529,Other general merchandise stores,9182,9,2020
+45291,Warehouse clubs and superstores,1786,9,2020
+45299,All other gen. merchandise stores,7396,9,2020
+453,Miscellaneous store retailers,49385,9,2020
+4532,"Office supplies, stationery, and gift stores",42093,9,2020
+45321,Office supplies and stationery stores,7292,9,2020
+45322,"Gift, novelty, and souvenir stores",11604,9,2020
+45330,Used merchandise stores,2153,9,2020
+454,Nonstore retailers,968,9,2020
+4541,Electronic shopping and mail-order houses,1185,9,2020
+45431,Fuel dealers,1357,9,2020
+722,Food services and drinking places,75540,9,2020
+7224,Drinking places,68425,9,2020
+7225,Restaurants and other eating places,1885,9,2020
+722511,Full service restaurants,54740,9,2020
+"722513, 722514, 722515",Limited service eating places,0,9,2020
+441,Motor vehicle and parts dealers,329944,9,2019
+"44,114,412",Automobile and other motor vehicle dealers,100240,9,2019
+4411,Automobile dealers,99612,9,2019
+44111,New car dealers,91758,9,2019
+44112,Used car dealers,85985,9,2019
+4413,"Automotive parts, acc., and tire stores",76300,9,2019
+"442,443","Furniture, home furn, electronics, and appliance stores",9685,9,2019
+442,Furniture and home furnishings stores,7854,9,2019
+4421,Furniture stores,17239,9,2019
+4422,Home furnishings stores,10116,9,2019
+44221,Floor covering stores,5631,9,2019
+442299,All other home furnishings stores,4485,9,2019
+443,Electronics and appliance stores,0,9,2019
+443141,Household appliance stores,2305,9,2019
+443142,Electronics stores,7123,9,2019
+444,Building mat. and garden equip. and supplies dealers,1357,9,2019
+4441,Building mat. and supplies dealers,5766,9,2019
+44412,Paint and wallpaper stores,29963,9,2019
+44413,Hardware stores,26662,9,2019
+445,Food and beverage stores,1149,9,2019
+4451,Grocery stores,2317,9,2019
+44511,Supermarkets and other grocery (except convenience) stores,62420,9,2019
+4453,"Beer, wine, and liquor stores",56083,9,2019
+446,Health and personal care stores,53251,9,2019
+44611,Pharmacies and drug stores,4454,9,2019
+447,Gasoline stations,27297,9,2019
+448,Clothing and clothing access. stores,22515,9,2019
+4481,Clothing stores,42751,9,2019
+44811,Men's clothing stores,19567,9,2019
+44812,Women's clothing stores,14374,9,2019
+44814,Family clothing stores,725,9,2019
+44819,Other clothing stores,2923,9,2019
+4482,Shoe stores,8193,9,2019
+44831,Jewelry stores,1225,9,2019
+451,"Sporting goods, hobby, musical instrument, and book stores",2594,9,2019
+45111,Sporting goods stores,2330,9,2019
+45112,"Hobby, toy, and game stores",6325,9,2019
+451211,Book stores,3403,9,2019
+452,General merchandise stores,1254,9,2019
+4521,Department stores,871,9,2019
+452111,Department stores(excl. discount department stores),54785,9,2019
+452112,Discount dept. stores,9732,9,2019
+4529,Other general merchandise stores,2858,9,2019
+45291,Warehouse clubs and superstores,6874,9,2019
+45299,All other gen. merchandise stores,45053,9,2019
+453,Miscellaneous store retailers,38806,9,2019
+4532,"Office supplies, stationery, and gift stores",6247,9,2019
+45321,Office supplies and stationery stores,10711,9,2019
+45322,"Gift, novelty, and souvenir stores",2324,9,2019
+45330,Used merchandise stores,893,9,2019
+454,Nonstore retailers,1431,9,2019
+4541,Electronic shopping and mail-order houses,1557,9,2019
+45431,Fuel dealers,58886,9,2019
+722,Food services and drinking places,51913,9,2019
+7224,Drinking places,2041,9,2019
+7225,Restaurants and other eating places,63520,9,2019
+722511,Full service restaurants,0,9,2019
+"722513, 722514, 722515",Limited service eating places,54572,9,2019
+441,Motor vehicle and parts dealers,321206,9,2018
+"44,114,412",Automobile and other motor vehicle dealers,100372,9,2018
+4411,Automobile dealers,95966,9,2018
+44111,New car dealers,88197,9,2018
+44112,Used car dealers,82407,9,2018
+4413,"Automotive parts, acc., and tire stores",73197,9,2018
+"442,443","Furniture, home furn, electronics, and appliance stores",9210,9,2018
+442,Furniture and home furnishings stores,7769,9,2018
+4421,Furniture stores,17039,9,2018
+4422,Home furnishings stores,9759,9,2018
+44221,Floor covering stores,5382,9,2018
+442299,All other home furnishings stores,4377,9,2018
+443,Electronics and appliance stores,0,9,2018
+443141,Household appliance stores,2263,9,2018
+443142,Electronics stores,7280,9,2018
+444,Building mat. and garden equip. and supplies dealers,1340,9,2018
+4441,Building mat. and supplies dealers,5940,9,2018
+44412,Paint and wallpaper stores,29354,9,2018
+44413,Hardware stores,26048,9,2018
+445,Food and beverage stores,1042,9,2018
+4451,Grocery stores,2172,9,2018
+44511,Supermarkets and other grocery (except convenience) stores,61186,9,2018
+4453,"Beer, wine, and liquor stores",54910,9,2018
+446,Health and personal care stores,52296,9,2018
+44611,Pharmacies and drug stores,4416,9,2018
+447,Gasoline stations,26846,9,2018
+448,Clothing and clothing access. stores,22167,9,2018
+4481,Clothing stores,44442,9,2018
+44811,Men's clothing stores,19782,9,2018
+44812,Women's clothing stores,14709,9,2018
+44814,Family clothing stores,738,9,2018
+44819,Other clothing stores,3071,9,2018
+4482,Shoe stores,8244,9,2018
+44831,Jewelry stores,1315,9,2018
+451,"Sporting goods, hobby, musical instrument, and book stores",2736,9,2018
+45111,Sporting goods stores,2110,9,2018
+45112,"Hobby, toy, and game stores",6100,9,2018
+451211,Book stores,3198,9,2018
+452,General merchandise stores,1182,9,2018
+4521,Department stores,886,9,2018
+452111,Department stores(excl. discount department stores),54945,9,2018
+452112,Discount dept. stores,10371,9,2018
+4529,Other general merchandise stores,3191,9,2018
+45291,Warehouse clubs and superstores,7180,9,2018
+45299,All other gen. merchandise stores,44574,9,2018
+453,Miscellaneous store retailers,38362,9,2018
+4532,"Office supplies, stationery, and gift stores",6212,9,2018
+45321,Office supplies and stationery stores,10198,9,2018
+45322,"Gift, novelty, and souvenir stores",2506,9,2018
+45330,Used merchandise stores,944,9,2018
+454,Nonstore retailers,1562,9,2018
+4541,Electronic shopping and mail-order houses,1376,9,2018
+45431,Fuel dealers,51314,9,2018
+722,Food services and drinking places,44922,9,2018
+7224,Drinking places,2050,9,2018
+7225,Restaurants and other eating places,59965,9,2018
+722511,Full service restaurants,0,9,2018
+"722513, 722514, 722515",Limited service eating places,51577,9,2018
+441,Motor vehicle and parts dealers,312607,9,2017
+"44,114,412",Automobile and other motor vehicle dealers,100576,9,2017
+4411,Automobile dealers,99971,9,2017
+44111,New car dealers,92143,9,2017
+44112,Used car dealers,86444,9,2017
+4413,"Automotive parts, acc., and tire stores",77024,9,2017
+"442,443","Furniture, home furn, electronics, and appliance stores",9420,9,2017
+442,Furniture and home furnishings stores,7828,9,2017
+4421,Furniture stores,16970,9,2017
+4422,Home furnishings stores,9676,9,2017
+44221,Floor covering stores,5189,9,2017
+442299,All other home furnishings stores,4487,9,2017
+443,Electronics and appliance stores,0,9,2017
+443141,Household appliance stores,2299,9,2017
+443142,Electronics stores,7294,9,2017
+444,Building mat. and garden equip. and supplies dealers,1385,9,2017
+4441,Building mat. and supplies dealers,5909,9,2017
+44412,Paint and wallpaper stores,28978,9,2017
+44413,Hardware stores,26017,9,2017
+445,Food and beverage stores,1015,9,2017
+4451,Grocery stores,2161,9,2017
+44511,Supermarkets and other grocery (except convenience) stores,60283,9,2017
+4453,"Beer, wine, and liquor stores",54142,9,2017
+446,Health and personal care stores,51676,9,2017
+44611,Pharmacies and drug stores,4346,9,2017
+447,Gasoline stations,26551,9,2017
+448,Clothing and clothing access. stores,21944,9,2017
+4481,Clothing stores,41677,9,2017
+44811,Men's clothing stores,19909,9,2017
+44812,Women's clothing stores,14713,9,2017
+44814,Family clothing stores,759,9,2017
+44819,Other clothing stores,3007,9,2017
+4482,Shoe stores,8079,9,2017
+44831,Jewelry stores,1362,9,2017
+451,"Sporting goods, hobby, musical instrument, and book stores",2754,9,2017
+45111,Sporting goods stores,2215,9,2017
+45112,"Hobby, toy, and game stores",6722,9,2017
+451211,Book stores,3573,9,2017
+452,General merchandise stores,1348,9,2017
+4521,Department stores,976,9,2017
+452111,Department stores(excl. discount department stores),54481,9,2017
+452112,Discount dept. stores,10891,9,2017
+4529,Other general merchandise stores,3557,9,2017
+45291,Warehouse clubs and superstores,7334,9,2017
+45299,All other gen. merchandise stores,43590,9,2017
+453,Miscellaneous store retailers,37601,9,2017
+4532,"Office supplies, stationery, and gift stores",5989,9,2017
+45321,Office supplies and stationery stores,10198,9,2017
+45322,"Gift, novelty, and souvenir stores",2494,9,2017
+45330,Used merchandise stores,1076,9,2017
+454,Nonstore retailers,1418,9,2017
+4541,Electronic shopping and mail-order houses,1425,9,2017
+45431,Fuel dealers,46838,9,2017
+722,Food services and drinking places,40559,9,2017
+7224,Drinking places,1854,9,2017
+7225,Restaurants and other eating places,57132,9,2017
+722511,Full service restaurants,2160,9,2017
+"722513, 722514, 722515",Limited service eating places,49019,9,2017
+441,Motor vehicle and parts dealers,298431,9,2016
+"44,114,412",Automobile and other motor vehicle dealers,98485,9,2016
+4411,Automobile dealers,95716,9,2016
+44111,New car dealers,88025,9,2016
+44112,Used car dealers,82567,9,2016
+4413,"Automotive parts, acc., and tire stores",73954,9,2016
+"442,443","Furniture, home furn, electronics, and appliance stores",8613,9,2016
+442,Furniture and home furnishings stores,7691,9,2016
+4421,Furniture stores,17082,9,2016
+4422,Home furnishings stores,9667,9,2016
+44221,Floor covering stores,5292,9,2016
+442299,All other home furnishings stores,4375,9,2016
+443,Electronics and appliance stores,1864,9,2016
+443141,Household appliance stores,2366,9,2016
+443142,Electronics stores,7415,9,2016
+444,Building mat. and garden equip. and supplies dealers,1517,9,2016
+4441,Building mat. and supplies dealers,5898,9,2016
+44412,Paint and wallpaper stores,27778,9,2016
+44413,Hardware stores,24875,9,2016
+445,Food and beverage stores,1000,9,2016
+4451,Grocery stores,1943,9,2016
+44511,Supermarkets and other grocery (except convenience) stores,57448,9,2016
+4453,"Beer, wine, and liquor stores",51405,9,2016
+446,Health and personal care stores,49106,9,2016
+44611,Pharmacies and drug stores,4260,9,2016
+447,Gasoline stations,26229,9,2016
+448,Clothing and clothing access. stores,21619,9,2016
+4481,Clothing stores,37924,9,2016
+44811,Men's clothing stores,19904,9,2016
+44812,Women's clothing stores,14855,9,2016
+44814,Family clothing stores,747,9,2016
+44819,Other clothing stores,3083,9,2016
+4482,Shoe stores,8049,9,2016
+44831,Jewelry stores,1404,9,2016
+451,"Sporting goods, hobby, musical instrument, and book stores",2790,9,2016
+45111,Sporting goods stores,2042,9,2016
+45112,"Hobby, toy, and game stores",6733,9,2016
+451211,Book stores,3587,9,2016
+452,General merchandise stores,1315,9,2016
+4521,Department stores,1037,9,2016
+452111,Department stores(excl. discount department stores),52143,9,2016
+452112,Discount dept. stores,11409,9,2016
+4529,Other general merchandise stores,3902,9,2016
+45291,Warehouse clubs and superstores,7507,9,2016
+45299,All other gen. merchandise stores,40734,9,2016
+453,Miscellaneous store retailers,35077,9,2016
+4532,"Office supplies, stationery, and gift stores",5657,9,2016
+45321,Office supplies and stationery stores,10184,9,2016
+45322,"Gift, novelty, and souvenir stores",2623,9,2016
+45330,Used merchandise stores,1207,9,2016
+454,Nonstore retailers,1416,9,2016
+4541,Electronic shopping and mail-order houses,1390,9,2016
+45431,Fuel dealers,43006,9,2016
+722,Food services and drinking places,37147,9,2016
+7224,Drinking places,1661,9,2016
+7225,Restaurants and other eating places,54369,9,2016
+722511,Full service restaurants,2059,9,2016
+"722513, 722514, 722515",Limited service eating places,46274,9,2016
+441,Motor vehicle and parts dealers,495722,10,2020
+"44,114,412",Automobile and other motor vehicle dealers,381043,10,2020
+4411,Automobile dealers,111528,10,2020
+44111,New car dealers,114679,10,2020
+44112,Used car dealers,105948,10,2020
+4413,"Automotive parts, acc., and tire stores",98478,10,2020
+"442,443","Furniture, home furn, electronics, and appliance stores",87522,10,2020
+442,Furniture and home furnishings stores,10956,10,2020
+4421,Furniture stores,8731,10,2020
+4422,Home furnishings stores,17979,10,2020
+44221,Floor covering stores,11114,10,2020
+442299,All other home furnishings stores,6053,10,2020
+443,Electronics and appliance stores,0,10,2020
+443141,Household appliance stores,0,10,2020
+443142,Electronics stores,0,10,2020
+444,Building mat. and garden equip. and supplies dealers,6865,10,2020
+4441,Building mat. and supplies dealers,1722,10,2020
+44412,Paint and wallpaper stores,5143,10,2020
+44413,Hardware stores,37582,10,2020
+445,Food and beverage stores,33018,10,2020
+4451,Grocery stores,1208,10,2020
+44511,Supermarkets and other grocery (except convenience) stores,2763,10,2020
+4453,"Beer, wine, and liquor stores",71957,10,2020
+446,Health and personal care stores,64017,10,2020
+44611,Pharmacies and drug stores,61259,10,2020
+447,Gasoline stations,5766,10,2020
+448,Clothing and clothing access. stores,30630,10,2020
+4481,Clothing stores,26435,10,2020
+44811,Men's clothing stores,38161,10,2020
+44812,Women's clothing stores,20088,10,2020
+44814,Family clothing stores,14165,10,2020
+44819,Other clothing stores,0,10,2020
+4482,Shoe stores,2634,10,2020
+44831,Jewelry stores,8520,10,2020
+451,"Sporting goods, hobby, musical instrument, and book stores",1171,10,2020
+45111,Sporting goods stores,2677,10,2020
+45112,"Hobby, toy, and game stores",2872,10,2020
+451211,Book stores,7657,10,2020
+452,General merchandise stores,4684,10,2020
+4521,Department stores,1674,10,2020
+452111,Department stores(excl. discount department stores),455,10,2020
+452112,Discount dept. stores,63203,10,2020
+4529,Other general merchandise stores,9733,10,2020
+45291,Warehouse clubs and superstores,1913,10,2020
+45299,All other gen. merchandise stores,7820,10,2020
+453,Miscellaneous store retailers,53470,10,2020
+4532,"Office supplies, stationery, and gift stores",45714,10,2020
+45321,Office supplies and stationery stores,7756,10,2020
+45322,"Gift, novelty, and souvenir stores",12400,10,2020
+45330,Used merchandise stores,2601,10,2020
+454,Nonstore retailers,800,10,2020
+4541,Electronic shopping and mail-order houses,1801,10,2020
+45431,Fuel dealers,1607,10,2020
+722,Food services and drinking places,81386,10,2020
+7224,Drinking places,73023,10,2020
+7225,Restaurants and other eating places,2262,10,2020
+722511,Full service restaurants,57392,10,2020
+"722513, 722514, 722515",Limited service eating places,0,10,2020
+441,Motor vehicle and parts dealers,352580,10,2019
+"44,114,412",Automobile and other motor vehicle dealers,106921,10,2019
+4411,Automobile dealers,103856,10,2019
+44111,New car dealers,95219,10,2019
+44112,Used car dealers,89711,10,2019
+4413,"Automotive parts, acc., and tire stores",79728,10,2019
+"442,443","Furniture, home furn, electronics, and appliance stores",9983,10,2019
+442,Furniture and home furnishings stores,8637,10,2019
+4421,Furniture stores,17368,10,2019
+4422,Home furnishings stores,10272,10,2019
+44221,Floor covering stores,5432,10,2019
+442299,All other home furnishings stores,4840,10,2019
+443,Electronics and appliance stores,0,10,2019
+443141,Household appliance stores,2506,10,2019
+443142,Electronics stores,7096,10,2019
+444,Building mat. and garden equip. and supplies dealers,1409,10,2019
+4441,Building mat. and supplies dealers,5687,10,2019
+44412,Paint and wallpaper stores,32629,10,2019
+44413,Hardware stores,28697,10,2019
+445,Food and beverage stores,1162,10,2019
+4451,Grocery stores,2549,10,2019
+44511,Supermarkets and other grocery (except convenience) stores,64849,10,2019
+4453,"Beer, wine, and liquor stores",58172,10,2019
+446,Health and personal care stores,55304,10,2019
+44611,Pharmacies and drug stores,4676,10,2019
+447,Gasoline stations,29551,10,2019
+448,Clothing and clothing access. stores,24856,10,2019
+4481,Clothing stores,44348,10,2019
+44811,Men's clothing stores,21400,10,2019
+44812,Women's clothing stores,16070,10,2019
+44814,Family clothing stores,777,10,2019
+44819,Other clothing stores,3226,10,2019
+4482,Shoe stores,9347,10,2019
+44831,Jewelry stores,1287,10,2019
+451,"Sporting goods, hobby, musical instrument, and book stores",2721,10,2019
+45111,Sporting goods stores,2353,10,2019
+45112,"Hobby, toy, and game stores",6435,10,2019
+451211,Book stores,3526,10,2019
+452,General merchandise stores,1407,10,2019
+4521,Department stores,650,10,2019
+452111,Department stores(excl. discount department stores),58872,10,2019
+452112,Discount dept. stores,10441,10,2019
+4529,Other general merchandise stores,2921,10,2019
+45291,Warehouse clubs and superstores,7520,10,2019
+45299,All other gen. merchandise stores,48431,10,2019
+453,Miscellaneous store retailers,41653,10,2019
+4532,"Office supplies, stationery, and gift stores",6778,10,2019
+45321,Office supplies and stationery stores,11933,10,2019
+45322,"Gift, novelty, and souvenir stores",2846,10,2019
+45330,Used merchandise stores,831,10,2019
+454,Nonstore retailers,2015,10,2019
+4541,Electronic shopping and mail-order houses,1842,10,2019
+45431,Fuel dealers,65195,10,2019
+722,Food services and drinking places,57196,10,2019
+7224,Drinking places,2666,10,2019
+7225,Restaurants and other eating places,65759,10,2019
+722511,Full service restaurants,0,10,2019
+"722513, 722514, 722515",Limited service eating places,56410,10,2019
+441,Motor vehicle and parts dealers,342845,10,2018
+"44,114,412",Automobile and other motor vehicle dealers,105419,10,2018
+4411,Automobile dealers,99033,10,2018
+44111,New car dealers,90587,10,2018
+44112,Used car dealers,85177,10,2018
+4413,"Automotive parts, acc., and tire stores",75794,10,2018
+"442,443","Furniture, home furn, electronics, and appliance stores",9383,10,2018
+442,Furniture and home furnishings stores,8446,10,2018
+4421,Furniture stores,17301,10,2018
+4422,Home furnishings stores,9966,10,2018
+44221,Floor covering stores,5175,10,2018
+442299,All other home furnishings stores,4791,10,2018
+443,Electronics and appliance stores,0,10,2018
+443141,Household appliance stores,2449,10,2018
+443142,Electronics stores,7335,10,2018
+444,Building mat. and garden equip. and supplies dealers,1406,10,2018
+4441,Building mat. and supplies dealers,5929,10,2018
+44412,Paint and wallpaper stores,32490,10,2018
+44413,Hardware stores,28547,10,2018
+445,Food and beverage stores,1143,10,2018
+4451,Grocery stores,2385,10,2018
+44511,Supermarkets and other grocery (except convenience) stores,62554,10,2018
+4453,"Beer, wine, and liquor stores",56019,10,2018
+446,Health and personal care stores,53358,10,2018
+44611,Pharmacies and drug stores,4555,10,2018
+447,Gasoline stations,29355,10,2018
+448,Clothing and clothing access. stores,24713,10,2018
+4481,Clothing stores,47071,10,2018
+44811,Men's clothing stores,21203,10,2018
+44812,Women's clothing stores,15833,10,2018
+44814,Family clothing stores,765,10,2018
+44819,Other clothing stores,3406,10,2018
+4482,Shoe stores,8989,10,2018
+44831,Jewelry stores,1297,10,2018
+451,"Sporting goods, hobby, musical instrument, and book stores",2841,10,2018
+45111,Sporting goods stores,2300,10,2018
+45112,"Hobby, toy, and game stores",6039,10,2018
+451211,Book stores,3266,10,2018
+452,General merchandise stores,1282,10,2018
+4521,Department stores,654,10,2018
+452111,Department stores(excl. discount department stores),57771,10,2018
+452112,Discount dept. stores,10995,10,2018
+4529,Other general merchandise stores,3324,10,2018
+45291,Warehouse clubs and superstores,7671,10,2018
+45299,All other gen. merchandise stores,46776,10,2018
+453,Miscellaneous store retailers,40187,10,2018
+4532,"Office supplies, stationery, and gift stores",6589,10,2018
+45321,Office supplies and stationery stores,11441,10,2018
+45322,"Gift, novelty, and souvenir stores",3105,10,2018
+45330,Used merchandise stores,864,10,2018
+454,Nonstore retailers,2241,10,2018
+4541,Electronic shopping and mail-order houses,1565,10,2018
+45431,Fuel dealers,57620,10,2018
+722,Food services and drinking places,49855,10,2018
+7224,Drinking places,2962,10,2018
+7225,Restaurants and other eating places,61724,10,2018
+722511,Full service restaurants,0,10,2018
+"722513, 722514, 722515",Limited service eating places,53058,10,2018
+441,Motor vehicle and parts dealers,320434,10,2017
+"44,114,412",Automobile and other motor vehicle dealers,102945,10,2017
+4411,Automobile dealers,97396,10,2017
+44111,New car dealers,89438,10,2017
+44112,Used car dealers,84382,10,2017
+4413,"Automotive parts, acc., and tire stores",75083,10,2017
+"442,443","Furniture, home furn, electronics, and appliance stores",9299,10,2017
+442,Furniture and home furnishings stores,7958,10,2017
+4421,Furniture stores,16815,10,2017
+4422,Home furnishings stores,9647,10,2017
+44221,Floor covering stores,5050,10,2017
+442299,All other home furnishings stores,4597,10,2017
+443,Electronics and appliance stores,0,10,2017
+443141,Household appliance stores,2338,10,2017
+443142,Electronics stores,7168,10,2017
+444,Building mat. and garden equip. and supplies dealers,1360,10,2017
+4441,Building mat. and supplies dealers,5808,10,2017
+44412,Paint and wallpaper stores,29672,10,2017
+44413,Hardware stores,26536,10,2017
+445,Food and beverage stores,1039,10,2017
+4451,Grocery stores,2264,10,2017
+44511,Supermarkets and other grocery (except convenience) stores,60762,10,2017
+4453,"Beer, wine, and liquor stores",54561,10,2017
+446,Health and personal care stores,52095,10,2017
+44611,Pharmacies and drug stores,4343,10,2017
+447,Gasoline stations,27761,10,2017
+448,Clothing and clothing access. stores,23386,10,2017
+4481,Clothing stores,41964,10,2017
+44811,Men's clothing stores,20469,10,2017
+44812,Women's clothing stores,15361,10,2017
+44814,Family clothing stores,745,10,2017
+44819,Other clothing stores,3179,10,2017
+4482,Shoe stores,8628,10,2017
+44831,Jewelry stores,1297,10,2017
+451,"Sporting goods, hobby, musical instrument, and book stores",2646,10,2017
+45111,Sporting goods stores,2231,10,2017
+45112,"Hobby, toy, and game stores",6349,10,2017
+451211,Book stores,3402,10,2017
+452,General merchandise stores,1445,10,2017
+4521,Department stores,654,10,2017
+452111,Department stores(excl. discount department stores),56416,10,2017
+452112,Discount dept. stores,11176,10,2017
+4529,Other general merchandise stores,3586,10,2017
+45291,Warehouse clubs and superstores,7590,10,2017
+45299,All other gen. merchandise stores,45240,10,2017
+453,Miscellaneous store retailers,39009,10,2017
+4532,"Office supplies, stationery, and gift stores",6231,10,2017
+45321,Office supplies and stationery stores,10679,10,2017
+45322,"Gift, novelty, and souvenir stores",2896,10,2017
+45330,Used merchandise stores,941,10,2017
+454,Nonstore retailers,1955,10,2017
+4541,Electronic shopping and mail-order houses,1562,10,2017
+45431,Fuel dealers,49547,10,2017
+722,Food services and drinking places,42667,10,2017
+7224,Drinking places,2362,10,2017
+7225,Restaurants and other eating places,58184,10,2017
+722511,Full service restaurants,2204,10,2017
+"722513, 722514, 722515",Limited service eating places,49968,10,2017
+441,Motor vehicle and parts dealers,304322,10,2016
+"44,114,412",Automobile and other motor vehicle dealers,101847,10,2016
+4411,Automobile dealers,93015,10,2016
+44111,New car dealers,85223,10,2016
+44112,Used car dealers,80503,10,2016
+4413,"Automotive parts, acc., and tire stores",71517,10,2016
+"442,443","Furniture, home furn, electronics, and appliance stores",8986,10,2016
+442,Furniture and home furnishings stores,7792,10,2016
+4421,Furniture stores,16231,10,2016
+4422,Home furnishings stores,9175,10,2016
+44221,Floor covering stores,4903,10,2016
+442299,All other home furnishings stores,4272,10,2016
+443,Electronics and appliance stores,1795,10,2016
+443141,Household appliance stores,2340,10,2016
+443142,Electronics stores,7056,10,2016
+444,Building mat. and garden equip. and supplies dealers,1395,10,2016
+4441,Building mat. and supplies dealers,5661,10,2016
+44412,Paint and wallpaper stores,27464,10,2016
+44413,Hardware stores,24509,10,2016
+445,Food and beverage stores,946,10,2016
+4451,Grocery stores,2051,10,2016
+44511,Supermarkets and other grocery (except convenience) stores,58744,10,2016
+4453,"Beer, wine, and liquor stores",52655,10,2016
+446,Health and personal care stores,50393,10,2016
+44611,Pharmacies and drug stores,4261,10,2016
+447,Gasoline stations,25678,10,2016
+448,Clothing and clothing access. stores,21493,10,2016
+4481,Clothing stores,38978,10,2016
+44811,Men's clothing stores,20626,10,2016
+44812,Women's clothing stores,15527,10,2016
+44814,Family clothing stores,759,10,2016
+44819,Other clothing stores,3182,10,2016
+4482,Shoe stores,8666,10,2016
+44831,Jewelry stores,1320,10,2016
+451,"Sporting goods, hobby, musical instrument, and book stores",2750,10,2016
+45111,Sporting goods stores,2123,10,2016
+45112,"Hobby, toy, and game stores",6291,10,2016
+451211,Book stores,3395,10,2016
+452,General merchandise stores,1428,10,2016
+4521,Department stores,688,10,2016
+452111,Department stores(excl. discount department stores),55817,10,2016
+452112,Discount dept. stores,11934,10,2016
+4529,Other general merchandise stores,3921,10,2016
+45291,Warehouse clubs and superstores,8013,10,2016
+45299,All other gen. merchandise stores,43883,10,2016
+453,Miscellaneous store retailers,37969,10,2016
+4532,"Office supplies, stationery, and gift stores",5914,10,2016
+45321,Office supplies and stationery stores,10572,10,2016
+45322,"Gift, novelty, and souvenir stores",2882,10,2016
+45330,Used merchandise stores,996,10,2016
+454,Nonstore retailers,1886,10,2016
+4541,Electronic shopping and mail-order houses,1506,10,2016
+45431,Fuel dealers,43921,10,2016
+722,Food services and drinking places,37651,10,2016
+7224,Drinking places,2126,10,2016
+7225,Restaurants and other eating places,55818,10,2016
+722511,Full service restaurants,2137,10,2016
+"722513, 722514, 722515",Limited service eating places,47877,10,2016
+441,Motor vehicle and parts dealers,492362,11,2020
+"44,114,412",Automobile and other motor vehicle dealers,389142,11,2020
+4411,Automobile dealers,117962,11,2020
+44111,New car dealers,103220,11,2020
+44112,Used car dealers,95304,11,2020
+4413,"Automotive parts, acc., and tire stores",89223,11,2020
+"442,443","Furniture, home furn, electronics, and appliance stores",79269,11,2020
+442,Furniture and home furnishings stores,9954,11,2020
+4421,Furniture stores,7916,11,2020
+4422,Home furnishings stores,19483,11,2020
+44221,Floor covering stores,11187,11,2020
+442299,All other home furnishings stores,5894,11,2020
+443,Electronics and appliance stores,0,11,2020
+443141,Household appliance stores,0,11,2020
+443142,Electronics stores,0,11,2020
+444,Building mat. and garden equip. and supplies dealers,8296,11,2020
+4441,Building mat. and supplies dealers,1705,11,2020
+44412,Paint and wallpaper stores,6591,11,2020
+44413,Hardware stores,34662,11,2020
+445,Food and beverage stores,30633,11,2020
+4451,Grocery stores,1012,11,2020
+44511,Supermarkets and other grocery (except convenience) stores,2553,11,2020
+4453,"Beer, wine, and liquor stores",71879,11,2020
+446,Health and personal care stores,63920,11,2020
+44611,Pharmacies and drug stores,61341,11,2020
+447,Gasoline stations,5796,11,2020
+448,Clothing and clothing access. stores,28575,11,2020
+4481,Clothing stores,24294,11,2020
+44811,Men's clothing stores,34394,11,2020
+44812,Women's clothing stores,21287,11,2020
+44814,Family clothing stores,15038,11,2020
+44819,Other clothing stores,0,11,2020
+4482,Shoe stores,2726,11,2020
+44831,Jewelry stores,8976,11,2020
+451,"Sporting goods, hobby, musical instrument, and book stores",1331,11,2020
+45111,Sporting goods stores,2617,11,2020
+45112,"Hobby, toy, and game stores",3245,11,2020
+451211,Book stores,8368,11,2020
+452,General merchandise stores,4620,11,2020
+4521,Department stores,2412,11,2020
+452111,Department stores(excl. discount department stores),496,11,2020
+452112,Discount dept. stores,66964,11,2020
+4529,Other general merchandise stores,11235,11,2020
+45291,Warehouse clubs and superstores,2357,11,2020
+45299,All other gen. merchandise stores,8878,11,2020
+453,Miscellaneous store retailers,55729,11,2020
+4532,"Office supplies, stationery, and gift stores",47744,11,2020
+45321,Office supplies and stationery stores,7985,11,2020
+45322,"Gift, novelty, and souvenir stores",11988,11,2020
+45330,Used merchandise stores,1860,11,2020
+454,Nonstore retailers,724,11,2020
+4541,Electronic shopping and mail-order houses,1136,11,2020
+45431,Fuel dealers,1537,11,2020
+722,Food services and drinking places,91542,11,2020
+7224,Drinking places,83769,11,2020
+7225,Restaurants and other eating places,2563,11,2020
+722511,Full service restaurants,50911,11,2020
+"722513, 722514, 722515",Limited service eating places,0,11,2020
+441,Motor vehicle and parts dealers,367761,11,2019
+"44,114,412",Automobile and other motor vehicle dealers,121457,11,2019
+4411,Automobile dealers,101242,11,2019
+44111,New car dealers,93303,11,2019
+44112,Used car dealers,88406,11,2019
+4413,"Automotive parts, acc., and tire stores",78776,11,2019
+"442,443","Furniture, home furn, electronics, and appliance stores",9630,11,2019
+442,Furniture and home furnishings stores,7939,11,2019
+4421,Furniture stores,20279,11,2019
+4422,Home furnishings stores,11037,11,2019
+44221,Floor covering stores,5793,11,2019
+442299,All other home furnishings stores,5244,11,2019
+443,Electronics and appliance stores,0,11,2019
+443141,Household appliance stores,3083,11,2019
+443142,Electronics stores,9242,11,2019
+444,Building mat. and garden equip. and supplies dealers,1500,11,2019
+4441,Building mat. and supplies dealers,7742,11,2019
+44412,Paint and wallpaper stores,29793,11,2019
+44413,Hardware stores,26220,11,2019
+445,Food and beverage stores,940,11,2019
+4451,Grocery stores,2335,11,2019
+44511,Supermarkets and other grocery (except convenience) stores,66363,11,2019
+4453,"Beer, wine, and liquor stores",59224,11,2019
+446,Health and personal care stores,56499,11,2019
+44611,Pharmacies and drug stores,5057,11,2019
+447,Gasoline stations,27844,11,2019
+448,Clothing and clothing access. stores,22815,11,2019
+4481,Clothing stores,41424,11,2019
+44811,Men's clothing stores,25170,11,2019
+44812,Women's clothing stores,18992,11,2019
+44814,Family clothing stores,830,11,2019
+44819,Other clothing stores,3664,11,2019
+4482,Shoe stores,11232,11,2019
+44831,Jewelry stores,1577,11,2019
+451,"Sporting goods, hobby, musical instrument, and book stores",3038,11,2019
+45111,Sporting goods stores,2809,11,2019
+45112,"Hobby, toy, and game stores",7382,11,2019
+451211,Book stores,3825,11,2019
+452,General merchandise stores,2064,11,2019
+4521,Department stores,640,11,2019
+452111,Department stores(excl. discount department stores),66356,11,2019
+452112,Discount dept. stores,13360,11,2019
+4529,Other general merchandise stores,4135,11,2019
+45291,Warehouse clubs and superstores,9225,11,2019
+45299,All other gen. merchandise stores,52996,11,2019
+453,Miscellaneous store retailers,45788,11,2019
+4532,"Office supplies, stationery, and gift stores",7208,11,2019
+45321,Office supplies and stationery stores,11641,11,2019
+45322,"Gift, novelty, and souvenir stores",2270,11,2019
+45330,Used merchandise stores,770,11,2019
+454,Nonstore retailers,1500,11,2019
+4541,Electronic shopping and mail-order houses,1624,11,2019
+45431,Fuel dealers,71509,11,2019
+722,Food services and drinking places,63340,11,2019
+7224,Drinking places,3371,11,2019
+7225,Restaurants and other eating places,63127,11,2019
+722511,Full service restaurants,0,11,2019
+"722513, 722514, 722515",Limited service eating places,54745,11,2019
+441,Motor vehicle and parts dealers,364089,11,2018
+"44,114,412",Automobile and other motor vehicle dealers,121812,11,2018
+4411,Automobile dealers,95230,11,2018
+44111,New car dealers,87350,11,2018
+44112,Used car dealers,82531,11,2018
+4413,"Automotive parts, acc., and tire stores",73608,11,2018
+"442,443","Furniture, home furn, electronics, and appliance stores",8923,11,2018
+442,Furniture and home furnishings stores,7880,11,2018
+4421,Furniture stores,20335,11,2018
+4422,Home furnishings stores,10770,11,2018
+44221,Floor covering stores,5491,11,2018
+442299,All other home furnishings stores,5279,11,2018
+443,Electronics and appliance stores,0,11,2018
+443141,Household appliance stores,3150,11,2018
+443142,Electronics stores,9565,11,2018
+444,Building mat. and garden equip. and supplies dealers,1522,11,2018
+4441,Building mat. and supplies dealers,8043,11,2018
+44412,Paint and wallpaper stores,29908,11,2018
+44413,Hardware stores,26446,11,2018
+445,Food and beverage stores,936,11,2018
+4451,Grocery stores,2263,11,2018
+44511,Supermarkets and other grocery (except convenience) stores,63656,11,2018
+4453,"Beer, wine, and liquor stores",56647,11,2018
+446,Health and personal care stores,54139,11,2018
+44611,Pharmacies and drug stores,4926,11,2018
+447,Gasoline stations,28786,11,2018
+448,Clothing and clothing access. stores,23708,11,2018
+4481,Clothing stores,42017,11,2018
+44811,Men's clothing stores,25364,11,2018
+44812,Women's clothing stores,19074,11,2018
+44814,Family clothing stores,839,11,2018
+44819,Other clothing stores,4010,11,2018
+4482,Shoe stores,10851,11,2018
+44831,Jewelry stores,1680,11,2018
+451,"Sporting goods, hobby, musical instrument, and book stores",3288,11,2018
+45111,Sporting goods stores,2726,11,2018
+45112,"Hobby, toy, and game stores",7290,11,2018
+451211,Book stores,3760,11,2018
+452,General merchandise stores,1986,11,2018
+4521,Department stores,680,11,2018
+452111,Department stores(excl. discount department stores),66319,11,2018
+452112,Discount dept. stores,14562,11,2018
+4529,Other general merchandise stores,4850,11,2018
+45291,Warehouse clubs and superstores,9712,11,2018
+45299,All other gen. merchandise stores,51757,11,2018
+453,Miscellaneous store retailers,44281,11,2018
+4532,"Office supplies, stationery, and gift stores",7476,11,2018
+45321,Office supplies and stationery stores,11058,11,2018
+45322,"Gift, novelty, and souvenir stores",2504,11,2018
+45330,Used merchandise stores,872,11,2018
+454,Nonstore retailers,1632,11,2018
+4541,Electronic shopping and mail-order houses,1438,11,2018
+45431,Fuel dealers,69356,11,2018
+722,Food services and drinking places,61028,11,2018
+7224,Drinking places,3487,11,2018
+7225,Restaurants and other eating places,59138,11,2018
+722511,Full service restaurants,0,11,2018
+"722513, 722514, 722515",Limited service eating places,51176,11,2018
+441,Motor vehicle and parts dealers,347323,11,2017
+"44,114,412",Automobile and other motor vehicle dealers,118959,11,2017
+4411,Automobile dealers,94754,11,2017
+44111,New car dealers,86977,11,2017
+44112,Used car dealers,82631,11,2017
+4413,"Automotive parts, acc., and tire stores",73878,11,2017
+"442,443","Furniture, home furn, electronics, and appliance stores",8753,11,2017
+442,Furniture and home furnishings stores,7777,11,2017
+4421,Furniture stores,20405,11,2017
+4422,Home furnishings stores,10702,11,2017
+44221,Floor covering stores,5464,11,2017
+442299,All other home furnishings stores,5238,11,2017
+443,Electronics and appliance stores,0,11,2017
+443141,Household appliance stores,3046,11,2017
+443142,Electronics stores,9703,11,2017
+444,Building mat. and garden equip. and supplies dealers,1510,11,2017
+4441,Building mat. and supplies dealers,8193,11,2017
+44412,Paint and wallpaper stores,29182,11,2017
+44413,Hardware stores,25953,11,2017
+445,Food and beverage stores,897,11,2017
+4451,Grocery stores,2153,11,2017
+44511,Supermarkets and other grocery (except convenience) stores,62093,11,2017
+4453,"Beer, wine, and liquor stores",55443,11,2017
+446,Health and personal care stores,53089,11,2017
+44611,Pharmacies and drug stores,4638,11,2017
+447,Gasoline stations,27402,11,2017
+448,Clothing and clothing access. stores,22676,11,2017
+4481,Clothing stores,40241,11,2017
+44811,Men's clothing stores,24560,11,2017
+44812,Women's clothing stores,18393,11,2017
+44814,Family clothing stores,786,11,2017
+44819,Other clothing stores,3638,11,2017
+4482,Shoe stores,10639,11,2017
+44831,Jewelry stores,1513,11,2017
+451,"Sporting goods, hobby, musical instrument, and book stores",3078,11,2017
+45111,Sporting goods stores,2810,11,2017
+45112,"Hobby, toy, and game stores",7794,11,2017
+451211,Book stores,3999,11,2017
+452,General merchandise stores,2239,11,2017
+4521,Department stores,663,11,2017
+452111,Department stores(excl. discount department stores),63781,11,2017
+452112,Discount dept. stores,14897,11,2017
+4529,Other general merchandise stores,4907,11,2017
+45291,Warehouse clubs and superstores,9990,11,2017
+45299,All other gen. merchandise stores,48884,11,2017
+453,Miscellaneous store retailers,42138,11,2017
+4532,"Office supplies, stationery, and gift stores",6746,11,2017
+45321,Office supplies and stationery stores,10763,11,2017
+45322,"Gift, novelty, and souvenir stores",2419,11,2017
+45330,Used merchandise stores,919,11,2017
+454,Nonstore retailers,1500,11,2017
+4541,Electronic shopping and mail-order houses,1483,11,2017
+45431,Fuel dealers,61102,11,2017
+722,Food services and drinking places,53288,11,2017
+7224,Drinking places,3243,11,2017
+7225,Restaurants and other eating places,55671,11,2017
+722511,Full service restaurants,2071,11,2017
+"722513, 722514, 722515",Limited service eating places,48097,11,2017
+441,Motor vehicle and parts dealers,323531,11,2016
+"44,114,412",Automobile and other motor vehicle dealers,114768,11,2016
+4411,Automobile dealers,90341,11,2016
+44111,New car dealers,82873,11,2016
+44112,Used car dealers,78752,11,2016
+4413,"Automotive parts, acc., and tire stores",70724,11,2016
+"442,443","Furniture, home furn, electronics, and appliance stores",8028,11,2016
+442,Furniture and home furnishings stores,7468,11,2016
+4421,Furniture stores,19282,11,2016
+4422,Home furnishings stores,10079,11,2016
+44221,Floor covering stores,5281,11,2016
+442299,All other home furnishings stores,4798,11,2016
+443,Electronics and appliance stores,1725,11,2016
+443141,Household appliance stores,2947,11,2016
+443142,Electronics stores,9203,11,2016
+444,Building mat. and garden equip. and supplies dealers,1645,11,2016
+4441,Building mat. and supplies dealers,7558,11,2016
+44412,Paint and wallpaper stores,27433,11,2016
+44413,Hardware stores,24629,11,2016
+445,Food and beverage stores,847,11,2016
+4451,Grocery stores,1917,11,2016
+44511,Supermarkets and other grocery (except convenience) stores,59198,11,2016
+4453,"Beer, wine, and liquor stores",52772,11,2016
+446,Health and personal care stores,50625,11,2016
+44611,Pharmacies and drug stores,4488,11,2016
+447,Gasoline stations,25775,11,2016
+448,Clothing and clothing access. stores,21241,11,2016
+4481,Clothing stores,35812,11,2016
+44811,Men's clothing stores,23800,11,2016
+44812,Women's clothing stores,17763,11,2016
+44814,Family clothing stores,805,11,2016
+44819,Other clothing stores,3612,11,2016
+4482,Shoe stores,9732,11,2016
+44831,Jewelry stores,1713,11,2016
+451,"Sporting goods, hobby, musical instrument, and book stores",3084,11,2016
+45111,Sporting goods stores,2705,11,2016
+45112,"Hobby, toy, and game stores",7594,11,2016
+451211,Book stores,3870,11,2016
+452,General merchandise stores,2234,11,2016
+4521,Department stores,718,11,2016
+452111,Department stores(excl. discount department stores),61665,11,2016
+452112,Discount dept. stores,14892,11,2016
+4529,Other general merchandise stores,5214,11,2016
+45291,Warehouse clubs and superstores,9678,11,2016
+45299,All other gen. merchandise stores,46773,11,2016
+453,Miscellaneous store retailers,40424,11,2016
+4532,"Office supplies, stationery, and gift stores",6349,11,2016
+45321,Office supplies and stationery stores,10078,11,2016
+45322,"Gift, novelty, and souvenir stores",2427,11,2016
+45330,Used merchandise stores,972,11,2016
+454,Nonstore retailers,1455,11,2016
+4541,Electronic shopping and mail-order houses,1432,11,2016
+45431,Fuel dealers,52894,11,2016
+722,Food services and drinking places,46353,11,2016
+7224,Drinking places,2505,11,2016
+7225,Restaurants and other eating places,53360,11,2016
+722511,Full service restaurants,1968,11,2016
+"722513, 722514, 722515",Limited service eating places,46172,11,2016
+441,Motor vehicle and parts dealers,559932,12,2020
+"44,114,412",Automobile and other motor vehicle dealers,443440,12,2020
+4411,Automobile dealers,144871,12,2020
+44111,New car dealers,116492,12,2020
+44112,Used car dealers,108612,12,2020
+4413,"Automotive parts, acc., and tire stores",101956,12,2020
+"442,443","Furniture, home furn, electronics, and appliance stores",92388,12,2020
+442,Furniture and home furnishings stores,9568,12,2020
+4421,Furniture stores,7880,12,2020
+4422,Home furnishings stores,21613,12,2020
+44221,Floor covering stores,12129,12,2020
+442299,All other home furnishings stores,6153,12,2020
+443,Electronics and appliance stores,0,12,2020
+443141,Household appliance stores,0,12,2020
+443142,Electronics stores,0,12,2020
+444,Building mat. and garden equip. and supplies dealers,9484,12,2020
+4441,Building mat. and supplies dealers,1763,12,2020
+44412,Paint and wallpaper stores,7721,12,2020
+44413,Hardware stores,34524,12,2020
+445,Food and beverage stores,30123,12,2020
+4451,Grocery stores,945,12,2020
+44511,Supermarkets and other grocery (except convenience) stores,2795,12,2020
+4453,"Beer, wine, and liquor stores",77260,12,2020
+446,Health and personal care stores,67027,12,2020
+44611,Pharmacies and drug stores,64236,12,2020
+447,Gasoline stations,7366,12,2020
+448,Clothing and clothing access. stores,33670,12,2020
+4481,Clothing stores,27862,12,2020
+44811,Men's clothing stores,36635,12,2020
+44812,Women's clothing stores,32237,12,2020
+44814,Family clothing stores,19983,12,2020
+44819,Other clothing stores,604,12,2020
+4482,Shoe stores,3399,12,2020
+44831,Jewelry stores,12137,12,2020
+451,"Sporting goods, hobby, musical instrument, and book stores",1685,12,2020
+45111,Sporting goods stores,3824,12,2020
+45112,"Hobby, toy, and game stores",7824,12,2020
+451211,Book stores,11319,12,2020
+452,General merchandise stores,6799,12,2020
+4521,Department stores,2617,12,2020
+452111,Department stores(excl. discount department stores),900,12,2020
+452112,Discount dept. stores,77086,12,2020
+4529,Other general merchandise stores,14624,12,2020
+45291,Warehouse clubs and superstores,3492,12,2020
+45299,All other gen. merchandise stores,11132,12,2020
+453,Miscellaneous store retailers,62462,12,2020
+4532,"Office supplies, stationery, and gift stores",53210,12,2020
+45321,Office supplies and stationery stores,9252,12,2020
+45322,"Gift, novelty, and souvenir stores",13939,12,2020
+45330,Used merchandise stores,2616,12,2020
+454,Nonstore retailers,912,12,2020
+4541,Electronic shopping and mail-order houses,1704,12,2020
+45431,Fuel dealers,1465,12,2020
+722,Food services and drinking places,105157,12,2020
+7224,Drinking places,96203,12,2020
+7225,Restaurants and other eating places,3723,12,2020
+722511,Full service restaurants,51497,12,2020
+"722513, 722514, 722515",Limited service eating places,0,12,2020
+441,Motor vehicle and parts dealers,417856,12,2019
+"44,114,412",Automobile and other motor vehicle dealers,147773,12,2019
+4411,Automobile dealers,103611,12,2019
+44111,New car dealers,96137,12,2019
+44112,Used car dealers,91579,12,2019
+4413,"Automotive parts, acc., and tire stores",82739,12,2019
+"442,443","Furniture, home furn, electronics, and appliance stores",8840,12,2019
+442,Furniture and home furnishings stores,7474,12,2019
+4421,Furniture stores,22075,12,2019
+4422,Home furnishings stores,11189,12,2019
+44221,Floor covering stores,5438,12,2019
+442299,All other home furnishings stores,5751,12,2019
+443,Electronics and appliance stores,0,12,2019
+443141,Household appliance stores,3746,12,2019
+443142,Electronics stores,10886,12,2019
+444,Building mat. and garden equip. and supplies dealers,1423,12,2019
+4441,Building mat. and supplies dealers,9463,12,2019
+44412,Paint and wallpaper stores,28621,12,2019
+44413,Hardware stores,24990,12,2019
+445,Food and beverage stores,829,12,2019
+4451,Grocery stores,2337,12,2019
+44511,Supermarkets and other grocery (except convenience) stores,70028,12,2019
+4453,"Beer, wine, and liquor stores",60938,12,2019
+446,Health and personal care stores,58214,12,2019
+44611,Pharmacies and drug stores,6326,12,2019
+447,Gasoline stations,31479,12,2019
+448,Clothing and clothing access. stores,25195,12,2019
+4481,Clothing stores,40962,12,2019
+44811,Men's clothing stores,35157,12,2019
+44812,Women's clothing stores,24357,12,2019
+44814,Family clothing stores,1003,12,2019
+44819,Other clothing stores,4274,12,2019
+4482,Shoe stores,14433,12,2019
+44831,Jewelry stores,2296,12,2019
+451,"Sporting goods, hobby, musical instrument, and book stores",4044,12,2019
+45111,Sporting goods stores,6188,12,2019
+45112,"Hobby, toy, and game stores",9665,12,2019
+451211,Book stores,5337,12,2019
+452,General merchandise stores,2305,12,2019
+4521,Department stores,1074,12,2019
+452111,Department stores(excl. discount department stores),77926,12,2019
+452112,Discount dept. stores,18276,12,2019
+4529,Other general merchandise stores,6153,12,2019
+45291,Warehouse clubs and superstores,12123,12,2019
+45299,All other gen. merchandise stores,59650,12,2019
+453,Miscellaneous store retailers,51201,12,2019
+4532,"Office supplies, stationery, and gift stores",8449,12,2019
+45321,Office supplies and stationery stores,12227,12,2019
+45322,"Gift, novelty, and souvenir stores",2950,12,2019
+45330,Used merchandise stores,911,12,2019
+454,Nonstore retailers,2039,12,2019
+4541,Electronic shopping and mail-order houses,1511,12,2019
+45431,Fuel dealers,89716,12,2019
+722,Food services and drinking places,80543,12,2019
+7224,Drinking places,4110,12,2019
+7225,Restaurants and other eating places,66004,12,2019
+722511,Full service restaurants,0,12,2019
+"722513, 722514, 722515",Limited service eating places,57953,12,2019
+441,Motor vehicle and parts dealers,392478,12,2018
+"44,114,412",Automobile and other motor vehicle dealers,146442,12,2018
+4411,Automobile dealers,101048,12,2018
+44111,New car dealers,93824,12,2018
+44112,Used car dealers,89379,12,2018
+4413,"Automotive parts, acc., and tire stores",80750,12,2018
+"442,443","Furniture, home furn, electronics, and appliance stores",8629,12,2018
+442,Furniture and home furnishings stores,7224,12,2018
+4421,Furniture stores,22124,12,2018
+4422,Home furnishings stores,11120,12,2018
+44221,Floor covering stores,5427,12,2018
+442299,All other home furnishings stores,5693,12,2018
+443,Electronics and appliance stores,0,12,2018
+443141,Household appliance stores,3808,12,2018
+443142,Electronics stores,11004,12,2018
+444,Building mat. and garden equip. and supplies dealers,1393,12,2018
+4441,Building mat. and supplies dealers,9611,12,2018
+44412,Paint and wallpaper stores,27530,12,2018
+44413,Hardware stores,23986,12,2018
+445,Food and beverage stores,817,12,2018
+4451,Grocery stores,2260,12,2018
+44511,Supermarkets and other grocery (except convenience) stores,68047,12,2018
+4453,"Beer, wine, and liquor stores",59177,12,2018
+446,Health and personal care stores,56691,12,2018
+44611,Pharmacies and drug stores,6128,12,2018
+447,Gasoline stations,30794,12,2018
+448,Clothing and clothing access. stores,24750,12,2018
+4481,Clothing stores,38177,12,2018
+44811,Men's clothing stores,33950,12,2018
+44812,Women's clothing stores,23481,12,2018
+44814,Family clothing stores,1012,12,2018
+44819,Other clothing stores,4392,12,2018
+4482,Shoe stores,13626,12,2018
+44831,Jewelry stores,2190,12,2018
+451,"Sporting goods, hobby, musical instrument, and book stores",4217,12,2018
+45111,Sporting goods stores,5789,12,2018
+45112,"Hobby, toy, and game stores",9348,12,2018
+451211,Book stores,5106,12,2018
+452,General merchandise stores,2101,12,2018
+4521,Department stores,1149,12,2018
+452111,Department stores(excl. discount department stores),77968,12,2018
+452112,Discount dept. stores,19082,12,2018
+4529,Other general merchandise stores,6356,12,2018
+45291,Warehouse clubs and superstores,12726,12,2018
+45299,All other gen. merchandise stores,58886,12,2018
+453,Miscellaneous store retailers,50429,12,2018
+4532,"Office supplies, stationery, and gift stores",8457,12,2018
+45321,Office supplies and stationery stores,11455,12,2018
+45322,"Gift, novelty, and souvenir stores",3052,12,2018
+45330,Used merchandise stores,977,12,2018
+454,Nonstore retailers,2075,12,2018
+4541,Electronic shopping and mail-order houses,1399,12,2018
+45431,Fuel dealers,73085,12,2018
+722,Food services and drinking places,64279,12,2018
+7224,Drinking places,4040,12,2018
+7225,Restaurants and other eating places,63088,12,2018
+722511,Full service restaurants,0,12,2018
+"722513, 722514, 722515",Limited service eating places,55411,12,2018
+441,Motor vehicle and parts dealers,396902,12,2017
+"44,114,412",Automobile and other motor vehicle dealers,149727,12,2017
+4411,Automobile dealers,100125,12,2017
+44111,New car dealers,92708,12,2017
+44112,Used car dealers,88211,12,2017
+4413,"Automotive parts, acc., and tire stores",79822,12,2017
+"442,443","Furniture, home furn, electronics, and appliance stores",8389,12,2017
+442,Furniture and home furnishings stores,7417,12,2017
+4421,Furniture stores,22851,12,2017
+4422,Home furnishings stores,11434,12,2017
+44221,Floor covering stores,5400,12,2017
+442299,All other home furnishings stores,6034,12,2017
+443,Electronics and appliance stores,0,12,2017
+443141,Household appliance stores,4006,12,2017
+443142,Electronics stores,11417,12,2017
+444,Building mat. and garden equip. and supplies dealers,1432,12,2017
+4441,Building mat. and supplies dealers,9985,12,2017
+44412,Paint and wallpaper stores,26728,12,2017
+44413,Hardware stores,23439,12,2017
+445,Food and beverage stores,788,12,2017
+4451,Grocery stores,2226,12,2017
+44511,Supermarkets and other grocery (except convenience) stores,67886,12,2017
+4453,"Beer, wine, and liquor stores",59125,12,2017
+446,Health and personal care stores,56756,12,2017
+44611,Pharmacies and drug stores,5972,12,2017
+447,Gasoline stations,30602,12,2017
+448,Clothing and clothing access. stores,24692,12,2017
+4481,Clothing stores,39943,12,2017
+44811,Men's clothing stores,33923,12,2017
+44812,Women's clothing stores,23501,12,2017
+44814,Family clothing stores,1026,12,2017
+44819,Other clothing stores,4524,12,2017
+4482,Shoe stores,13641,12,2017
+44831,Jewelry stores,1815,12,2017
+451,"Sporting goods, hobby, musical instrument, and book stores",4144,12,2017
+45111,Sporting goods stores,5832,12,2017
+45112,"Hobby, toy, and game stores",10899,12,2017
+451211,Book stores,5530,12,2017
+452,General merchandise stores,3258,12,2017
+4521,Department stores,1114,12,2017
+452111,Department stores(excl. discount department stores),78716,12,2017
+452112,Discount dept. stores,20383,12,2017
+4529,Other general merchandise stores,7943,12,2017
+45291,Warehouse clubs and superstores,12440,12,2017
+45299,All other gen. merchandise stores,58333,12,2017
+453,Miscellaneous store retailers,50087,12,2017
+4532,"Office supplies, stationery, and gift stores",8246,12,2017
+45321,Office supplies and stationery stores,11736,12,2017
+45322,"Gift, novelty, and souvenir stores",3338,12,2017
+45330,Used merchandise stores,1016,12,2017
+454,Nonstore retailers,2322,12,2017
+4541,Electronic shopping and mail-order houses,1500,12,2017
+45431,Fuel dealers,73618,12,2017
+722,Food services and drinking places,64725,12,2017
+7224,Drinking places,4431,12,2017
+7225,Restaurants and other eating places,61188,12,2017
+722511,Full service restaurants,2231,12,2017
+"722513, 722514, 722515",Limited service eating places,53589,12,2017
+441,Motor vehicle and parts dealers,381017,12,2016
+"44,114,412",Automobile and other motor vehicle dealers,148877,12,2016
+4411,Automobile dealers,101036,12,2016
+44111,New car dealers,93364,12,2016
+44112,Used car dealers,89247,12,2016
+4413,"Automotive parts, acc., and tire stores",80614,12,2016
+"442,443","Furniture, home furn, electronics, and appliance stores",8633,12,2016
+442,Furniture and home furnishings stores,7672,12,2016
+4421,Furniture stores,22420,12,2016
+4422,Home furnishings stores,10989,12,2016
+44221,Floor covering stores,5299,12,2016
+442299,All other home furnishings stores,5690,12,2016
+443,Electronics and appliance stores,1685,12,2016
+443141,Household appliance stores,3884,12,2016
+443142,Electronics stores,11431,12,2016
+444,Building mat. and garden equip. and supplies dealers,1631,12,2016
+4441,Building mat. and supplies dealers,9800,12,2016
+44412,Paint and wallpaper stores,25818,12,2016
+44413,Hardware stores,22759,12,2016
+445,Food and beverage stores,753,12,2016
+4451,Grocery stores,2100,12,2016
+44511,Supermarkets and other grocery (except convenience) stores,65103,12,2016
+4453,"Beer, wine, and liquor stores",56444,12,2016
+446,Health and personal care stores,54287,12,2016
+44611,Pharmacies and drug stores,5812,12,2016
+447,Gasoline stations,29608,12,2016
+448,Clothing and clothing access. stores,23791,12,2016
+4481,Clothing stores,37154,12,2016
+44811,Men's clothing stores,34824,12,2016
+44812,Women's clothing stores,24003,12,2016
+44814,Family clothing stores,1098,12,2016
+44819,Other clothing stores,4577,12,2016
+4482,Shoe stores,13365,12,2016
+44831,Jewelry stores,2264,12,2016
+451,"Sporting goods, hobby, musical instrument, and book stores",4316,12,2016
+45111,Sporting goods stores,6050,12,2016
+45112,"Hobby, toy, and game stores",11441,12,2016
+451211,Book stores,5837,12,2016
+452,General merchandise stores,3432,12,2016
+4521,Department stores,1244,12,2016
+452111,Department stores(excl. discount department stores),76698,12,2016
+452112,Discount dept. stores,21358,12,2016
+4529,Other general merchandise stores,8536,12,2016
+45291,Warehouse clubs and superstores,12822,12,2016
+45299,All other gen. merchandise stores,55340,12,2016
+453,Miscellaneous store retailers,47471,12,2016
+4532,"Office supplies, stationery, and gift stores",7869,12,2016
+45321,Office supplies and stationery stores,11485,12,2016
+45322,"Gift, novelty, and souvenir stores",3494,12,2016
+45330,Used merchandise stores,1129,12,2016
+454,Nonstore retailers,2365,12,2016
+4541,Electronic shopping and mail-order houses,1394,12,2016
+45431,Fuel dealers,66466,12,2016
+722,Food services and drinking places,58607,12,2016
+7224,Drinking places,3709,12,2016
+7225,Restaurants and other eating places,57614,12,2016
+722511,Full service restaurants,2089,12,2016
+"722513, 722514, 722515",Limited service eating places,50206,12,2016
